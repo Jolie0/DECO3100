@@ -1,4 +1,4 @@
-Country,Year,longitude,latitude,Tree loss,emissions 
+Country,Year,longitude,latitude,treeLoss,emissions
 BRA,2001,-87.56,33.21,67.30977199,43.65806311
 BRA,2001,-37.71,-6.54,74.75453874,18.35644116
 BRA,2001,-45.27,-4.96,13.92698469,85.97544278
