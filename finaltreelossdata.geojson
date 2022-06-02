@@ -1,0 +1,3281 @@
+{
+   "type": "FeatureCollection",
+   "features": [
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -52.408564,-5.182671 ]
+    },
+    "properties": {
+    "id":1,
+    "umd_tree_cover_loss__year":2001,
+    "treeloss":67309.77199,
+    "emissions":43658063.11
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -55.900806,-12.921916 ]
+    },
+    "properties": {
+    "id":2,
+    "umd_tree_cover_loss__year":2001,
+    "treeloss":7475.453874,
+    "emissions":1835644.116
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -45.265612,-4.971627 ]
+    },
+    "properties": {
+    "id":3,
+    "umd_tree_cover_loss__year":2001,
+    "treeloss":13926.98469,
+    "emissions":8597544.278
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -62.851125,-10.98941 ]
+    },
+    "properties": {
+    "id":4,
+    "umd_tree_cover_loss__year":2001,
+    "treeloss":81439.17301,
+    "emissions":50363812.74
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -64.636515,-4.917967 ]
+    },
+    "properties": {
+    "id":5,
+    "umd_tree_cover_loss__year":2001,
+    "treeloss":145822.4644,
+    "emissions":35983404.42
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -41.436665,-12.356026 ]
+    },
+    "properties": {
+    "id":6,
+    "umd_tree_cover_loss__year":2001,
+    "treeloss":13521.66444,
+    "emissions":2419371.448
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -44.07499,-19.673738 ]
+    },
+    "properties": {
+    "id":7,
+    "umd_tree_cover_loss__year":2001,
+    "treeloss":251.6442695,
+    "emissions":62311.98662
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -48.364515,-10.640834 ]
+    },
+    "properties": {
+    "id":8,
+    "umd_tree_cover_loss__year":2001,
+    "treeloss":22842.48782,
+    "emissions":8879384.072
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [  -54.685419,-20.600709 ]
+    },
+    "properties": {
+    "id":9,
+    "umd_tree_cover_loss__year":2001,
+    "treeloss":73928.81873,
+    "emissions":18488933.54
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -70.555891,-8.938229 ]
+    },
+    "properties": {
+    "id":10,
+    "umd_tree_cover_loss__year":2001,
+    "treeloss":84245.8805,
+    "emissions":29266032.24
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -42.509818,-7.262452 ]
+    },
+    "properties": {
+    "id":11,
+    "umd_tree_cover_loss__year":2001,
+    "treeloss":118977.0725,
+    "emissions":28940417.55
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -51.466086,-24.622207 ]
+    },
+    "properties": {
+    "id":12,
+    "umd_tree_cover_loss__year":2001,
+    "treeloss":668329.3257,
+    "emissions":291313904.4
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -52.408564,-5.182671 ]
+    },
+    "properties": {
+    "id":1,
+    "umd_tree_cover_loss__year":2002,
+    "treeloss":68439.01864,
+    "emissions":49554064.99
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -55.900806,-12.921916 ]
+    },
+    "properties": {
+    "id":2,
+    "umd_tree_cover_loss__year":2002,
+    "treeloss":4618.538816,
+    "emissions":1509533.055
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -45.265612,-4.971627 ]
+    },
+    "properties": {
+    "id":3,
+    "umd_tree_cover_loss__year":2002,
+    "treeloss":13905.37718,
+    "emissions":8555984.513
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -62.851125,-10.98941 ]
+    },
+    "properties": {
+    "id":4,
+    "umd_tree_cover_loss__year":2002,
+    "treeloss":99140.45758,
+    "emissions":63376343.81
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -64.636515,-4.917967 ]
+    },
+    "properties": {
+    "id":5,
+    "umd_tree_cover_loss__year":2002,
+    "treeloss":120268.488,
+    "emissions":32943213.52
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -41.436665,-12.356026 ]
+    },
+    "properties": {
+    "id":6,
+    "umd_tree_cover_loss__year":2002,
+    "treeloss":18320.91337,
+    "emissions":3870529.067
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -44.07499,-19.673738 ]
+    },
+    "properties": {
+    "id":7,
+    "umd_tree_cover_loss__year":2002,
+    "treeloss":70.94968162,
+    "emissions":19326.86211
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -48.364515,-10.640834 ]
+    },
+    "properties": {
+    "id":8,
+    "umd_tree_cover_loss__year":2002,
+    "treeloss":24873.89252,
+    "emissions":11753993.82
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [  -54.685419,-20.600709 ]
+    },
+    "properties": {
+    "id":9,
+    "umd_tree_cover_loss__year":2002,
+    "treeloss":88135.05418,
+    "emissions":23209559.44
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -70.555891,-8.938229 ]
+    },
+    "properties": {
+    "id":10,
+    "umd_tree_cover_loss__year":2002,
+    "treeloss":170127.6929,
+    "emissions":62441928.28
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -42.509818,-7.262452 ]
+    },
+    "properties": {
+    "id":11,
+    "umd_tree_cover_loss__year":2002,
+    "treeloss":154724.7978,
+    "emissions":40530911.35
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -51.466086,-24.622207 ]
+    },
+    "properties": {
+    "id":12,
+    "umd_tree_cover_loss__year":2002,
+    "treeloss":1065530.117,
+    "emissions":500432880.7
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -52.408564,-5.182671 ]
+    },
+    "properties": {
+    "id":1,
+    "umd_tree_cover_loss__year":2003,
+    "treeloss":37665.7936,
+    "emissions":26493853.37
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -55.900806,-12.921916 ]
+    },
+    "properties": {
+    "id":2,
+    "umd_tree_cover_loss__year":2003,
+    "treeloss":7106.333809,
+    "emissions":1907667.867
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -45.265612,-4.971627 ]
+    },
+    "properties": {
+    "id":3,
+    "umd_tree_cover_loss__year":2003,
+    "treeloss":9796.097241,
+    "emissions":6312132.358
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -62.851125,-10.98941 ]
+    },
+    "properties": {
+    "id":4,
+    "umd_tree_cover_loss__year":2003,
+    "treeloss":102013.1572,
+    "emissions":69902938.49
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -64.636515,-4.917967 ]
+    },
+    "properties": {
+    "id":5,
+    "umd_tree_cover_loss__year":2003,
+    "treeloss":163576.9694,
+    "emissions":39663209.72
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -41.436665,-12.356026 ]
+    },
+    "properties": {
+    "id":6,
+    "umd_tree_cover_loss__year":2003,
+    "treeloss":11455.7067,
+    "emissions":2323695.382
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -44.07499,-19.673738 ]
+    },
+    "properties": {
+    "id":7,
+    "umd_tree_cover_loss__year":2003,
+    "treeloss":247.795414,
+    "emissions":58733.15387
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -48.364515,-10.640834 ]
+    },
+    "properties": {
+    "id":8,
+    "umd_tree_cover_loss__year":2003,
+    "treeloss":21073.56734,
+    "emissions":9320216.731
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [  -54.685419,-20.600709 ]
+    },
+    "properties": {
+    "id":9,
+    "umd_tree_cover_loss__year":2003,
+    "treeloss":84577.55699,
+    "emissions":23373166.74
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -70.555891,-8.938229 ]
+    },
+    "properties": {
+    "id":10,
+    "umd_tree_cover_loss__year":2003,
+    "treeloss":96298.78655,
+    "emissions":36180421.52
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -42.509818,-7.262452 ]
+    },
+    "properties": {
+    "id":11,
+    "umd_tree_cover_loss__year":2003,
+    "treeloss":112436.7397,
+    "emissions":31424057.32
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -51.466086,-24.622207 ]
+    },
+    "properties": {
+    "id":12,
+    "umd_tree_cover_loss__year":2003,
+    "treeloss":1135363.547,
+    "emissions":533072541.4
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -52.408564,-5.182671 ]
+    },
+    "properties": {
+    "id":1,
+    "umd_tree_cover_loss__year":2004,
+    "treeloss":67190.46413,
+    "emissions":48915005.24
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -55.900806,-12.921916 ]
+    },
+    "properties": {
+    "id":2,
+    "umd_tree_cover_loss__year":2004,
+    "treeloss":1526.121665,
+    "emissions":370097.5658
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -45.265612,-4.971627 ]
+    },
+    "properties": {
+    "id":3,
+    "umd_tree_cover_loss__year":2004,
+    "treeloss":16619.12944,
+    "emissions":9789643.587
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -62.851125,-10.98941 ]
+    },
+    "properties": {
+    "id":4,
+    "umd_tree_cover_loss__year":2004,
+    "treeloss":94389.26418,
+    "emissions":64416835.63
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -64.636515,-4.917967 ]
+    },
+    "properties": {
+    "id":5,
+    "umd_tree_cover_loss__year":2004,
+    "treeloss":152279.3017,
+    "emissions":45868861.48
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -41.436665,-12.356026 ]
+    },
+    "properties": {
+    "id":6,
+    "umd_tree_cover_loss__year":2004,
+    "treeloss":15200.48529,
+    "emissions":3007175.792
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -44.07499,-19.673738 ]
+    },
+    "properties": {
+    "id":7,
+    "umd_tree_cover_loss__year":2004,
+    "treeloss":62.82516949,
+    "emissions":17851.9913
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -48.364515,-10.640834 ]
+    },
+    "properties": {
+    "id":8,
+    "umd_tree_cover_loss__year":2004,
+    "treeloss":13599.83258,
+    "emissions":7292486.415
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [  -54.685419,-20.600709 ]
+    },
+    "properties": {
+    "id":9,
+    "umd_tree_cover_loss__year":2004,
+    "treeloss":85881.11369,
+    "emissions":24330374.76
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -70.555891,-8.938229 ]
+    },
+    "properties": {
+    "id":10,
+    "umd_tree_cover_loss__year":2004,
+    "treeloss":197213.585,
+    "emissions":66170787.53
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -42.509818,-7.262452 ]
+    },
+    "properties": {
+    "id":11,
+    "umd_tree_cover_loss__year":2004,
+    "treeloss":135766.4433,
+    "emissions":39597044.28
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -51.466086,-24.622207 ]
+    },
+    "properties": {
+    "id":12,
+    "umd_tree_cover_loss__year":2004,
+    "treeloss":1274079.982,
+    "emissions":638358175.7
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -52.408564,-5.182671 ]
+    },
+    "properties": {
+    "id":1,
+    "umd_tree_cover_loss__year":2005,
+    "treeloss":169859.9489,
+    "emissions":120195412.5
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -55.900806,-12.921916 ]
+    },
+    "properties": {
+    "id":2,
+    "umd_tree_cover_loss__year":2005,
+    "treeloss":5783.800413,
+    "emissions":1860965.067
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -45.265612,-4.971627 ]
+    },
+    "properties": {
+    "id":3,
+    "umd_tree_cover_loss__year":2005,
+    "treeloss":14145.03542,
+    "emissions":8336623.511
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -62.851125,-10.98941 ]
+    },
+    "properties": {
+    "id":4,
+    "umd_tree_cover_loss__year":2005,
+    "treeloss":174667.0621,
+    "emissions":119107804.5
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -64.636515,-4.917967 ]
+    },
+    "properties": {
+    "id":5,
+    "umd_tree_cover_loss__year":2005,
+    "treeloss":145692.7817,
+    "emissions":42647464.89
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -41.436665,-12.356026 ]
+    },
+    "properties": {
+    "id":6,
+    "umd_tree_cover_loss__year":2005,
+    "treeloss":6636.647153,
+    "emissions":1334864.41
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -44.07499,-19.673738 ]
+    },
+    "properties": {
+    "id":7,
+    "umd_tree_cover_loss__year":2005,
+    "treeloss":226.0553217,
+    "emissions":61938.59782
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -48.364515,-10.640834 ]
+    },
+    "properties": {
+    "id":8,
+    "umd_tree_cover_loss__year":2005,
+    "treeloss":16216.14825,
+    "emissions":8660512.557
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [  -54.685419,-20.600709 ]
+    },
+    "properties": {
+    "id":9,
+    "umd_tree_cover_loss__year":2005,
+    "treeloss":69966.40639,
+    "emissions":20875619.39
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -70.555891,-8.938229 ]
+    },
+    "properties": {
+    "id":10,
+    "umd_tree_cover_loss__year":2005,
+    "treeloss":168330.5686,
+    "emissions":67202219.59
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -42.509818,-7.262452 ]
+    },
+    "properties": {
+    "id":11,
+    "umd_tree_cover_loss__year":2005,
+    "treeloss":86858.16701,
+    "emissions":28177744.02
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -51.466086,-24.622207 ]
+    },
+    "properties": {
+    "id":12,
+    "umd_tree_cover_loss__year":2005,
+    "treeloss":773883.6131,
+    "emissions":414016319.2
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -52.408564,-5.182671 ]
+    },
+    "properties": {
+    "id":1,
+    "umd_tree_cover_loss__year":2006,
+    "treeloss":40138.27018,
+    "emissions":29807280.76
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -55.900806,-12.921916 ]
+    },
+    "properties": {
+    "id":2,
+    "umd_tree_cover_loss__year":2006,
+    "treeloss":7887.440155,
+    "emissions":2557998.874
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -45.265612,-4.971627 ]
+    },
+    "properties": {
+    "id":3,
+    "umd_tree_cover_loss__year":2006,
+    "treeloss":13021.61726,
+    "emissions":7568738.117
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -62.851125,-10.98941 ]
+    },
+    "properties": {
+    "id":4,
+    "umd_tree_cover_loss__year":2006,
+    "treeloss":154847.8263,
+    "emissions":106837085.2
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -64.636515,-4.917967 ]
+    },
+    "properties": {
+    "id":5,
+    "umd_tree_cover_loss__year":2006,
+    "treeloss":177051.8549,
+    "emissions":53230755.85
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -41.436665,-12.356026 ]
+    },
+    "properties": {
+    "id":6,
+    "umd_tree_cover_loss__year":2006,
+    "treeloss":13507.83134,
+    "emissions":2897526.518
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -44.07499,-19.673738 ]
+    },
+    "properties": {
+    "id":7,
+    "umd_tree_cover_loss__year":2006,
+    "treeloss":59.14775875,
+    "emissions":17219.14638
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -48.364515,-10.640834 ]
+    },
+    "properties": {
+    "id":8,
+    "umd_tree_cover_loss__year":2006,
+    "treeloss":13347.4354,
+    "emissions":7048880.183
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [  -54.685419,-20.600709 ]
+    },
+    "properties": {
+    "id":9,
+    "umd_tree_cover_loss__year":2006,
+    "treeloss":56121.17745,
+    "emissions":17187099.45
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -70.555891,-8.938229 ]
+    },
+    "properties": {
+    "id":10,
+    "umd_tree_cover_loss__year":2006,
+    "treeloss":184183.0856,
+    "emissions":75956624.36
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -42.509818,-7.262452 ]
+    },
+    "properties": {
+    "id":11,
+    "umd_tree_cover_loss__year":2006,
+    "treeloss":77820.93552,
+    "emissions":25534164.48
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -51.466086,-24.622207 ]
+    },
+    "properties": {
+    "id":12,
+    "umd_tree_cover_loss__year":2006,
+    "treeloss":551307.9187,
+    "emissions":286998911.5
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -52.408564,-5.182671 ]
+    },
+    "properties": {
+    "id":1,
+    "umd_tree_cover_loss__year":2007,
+    "treeloss":34674.05542,
+    "emissions":26364016.2
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -55.900806,-12.921916 ]
+    },
+    "properties": {
+    "id":2,
+    "umd_tree_cover_loss__year":2007,
+    "treeloss":3963.209659,
+    "emissions":1264259.431
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -45.265612,-4.971627 ]
+    },
+    "properties": {
+    "id":3,
+    "umd_tree_cover_loss__year":2007,
+    "treeloss":11020.33745,
+    "emissions":7196620.931
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -62.851125,-10.98941 ]
+    },
+    "properties": {
+    "id":4,
+    "umd_tree_cover_loss__year":2007,
+    "treeloss":89356.34492,
+    "emissions":61094762.19
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -64.636515,-4.917967 ]
+    },
+    "properties": {
+    "id":5,
+    "umd_tree_cover_loss__year":2007,
+    "treeloss":183798.7481,
+    "emissions":55027163.64
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -41.436665,-12.356026 ]
+    },
+    "properties": {
+    "id":6,
+    "umd_tree_cover_loss__year":2007,
+    "treeloss":22799.26354,
+    "emissions":5082511.103
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -44.07499,-19.673738 ]
+    },
+    "properties": {
+    "id":7,
+    "umd_tree_cover_loss__year":2007,
+    "treeloss":232.7372121,
+    "emissions":69912.10889
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -48.364515,-10.640834 ]
+    },
+    "properties": {
+    "id":8,
+    "umd_tree_cover_loss__year":2007,
+    "treeloss":12178.44735,
+    "emissions":7369708.617
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [  -54.685419,-20.600709 ]
+    },
+    "properties": {
+    "id":9,
+    "umd_tree_cover_loss__year":2007,
+    "treeloss":67503.96982,
+    "emissions":21582152.65
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -70.555891,-8.938229 ]
+    },
+    "properties": {
+    "id":10,
+    "umd_tree_cover_loss__year":2007,
+    "treeloss":208456.9729,
+    "emissions":83616528.86
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -42.509818,-7.262452 ]
+    },
+    "properties": {
+    "id":11,
+    "umd_tree_cover_loss__year":2007,
+    "treeloss":73908.36031,
+    "emissions":24764763.4
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -51.466086,-24.622207 ]
+    },
+    "properties": {
+    "id":12,
+    "umd_tree_cover_loss__year":2007,
+    "treeloss":494494.0107,
+    "emissions":256836837.9
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -52.408564,-5.182671 ]
+    },
+    "properties": {
+    "id":1,
+    "umd_tree_cover_loss__year":2008,
+    "treeloss":55148.77633,
+    "emissions":40872925.13
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -55.900806,-12.921916 ]
+    },
+    "properties": {
+    "id":2,
+    "umd_tree_cover_loss__year":2008,
+    "treeloss":5753.004441,
+    "emissions":1733751.883
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -45.265612,-4.971627 ]
+    },
+    "properties": {
+    "id":3,
+    "umd_tree_cover_loss__year":2008,
+    "treeloss":13825.97796,
+    "emissions":9242338.024
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -62.851125,-10.98941 ]
+    },
+    "properties": {
+    "id":4,
+    "umd_tree_cover_loss__year":2008,
+    "treeloss":94494.93973,
+    "emissions":65544314.01
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -64.636515,-4.917967 ]
+    },
+    "properties": {
+    "id":5,
+    "umd_tree_cover_loss__year":2008,
+    "treeloss":171667.3856,
+    "emissions":57707551.34
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -41.436665,-12.356026 ]
+    },
+    "properties": {
+    "id":6,
+    "umd_tree_cover_loss__year":2008,
+    "treeloss":15169.10024,
+    "emissions":3608664.319
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -44.07499,-19.673738 ]
+    },
+    "properties": {
+    "id":7,
+    "umd_tree_cover_loss__year":2008,
+    "treeloss":39.97352502,
+    "emissions":12487.78763
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -48.364515,-10.640834 ]
+    },
+    "properties": {
+    "id":8,
+    "umd_tree_cover_loss__year":2008,
+    "treeloss":9417.958885,
+    "emissions":5384692.019
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [  -54.685419,-20.600709 ]
+    },
+    "properties": {
+    "id":9,
+    "umd_tree_cover_loss__year":2008,
+    "treeloss":39725.08975,
+    "emissions":13200394.78
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -70.555891,-8.938229 ]
+    },
+    "properties": {
+    "id":10,
+    "umd_tree_cover_loss__year":2008,
+    "treeloss":210304.7538,
+    "emissions":80792077.04
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -42.509818,-7.262452 ]
+    },
+    "properties": {
+    "id":11,
+    "umd_tree_cover_loss__year":2008,
+    "treeloss":59403.15969,
+    "emissions":20575366.68
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -51.466086,-24.622207 ]
+    },
+    "properties": {
+    "id":12,
+    "umd_tree_cover_loss__year":2008,
+    "treeloss":408045.8659,
+    "emissions":208397149.5
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -52.408564,-5.182671 ]
+    },
+    "properties": {
+    "id":1,
+    "umd_tree_cover_loss__year":2009,
+    "treeloss":35453.10797,
+    "emissions":26838391.27
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -55.900806,-12.921916 ]
+    },
+    "properties": {
+    "id":2,
+    "umd_tree_cover_loss__year":2009,
+    "treeloss":3632.939179,
+    "emissions":1295281.392
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -45.265612,-4.971627 ]
+    },
+    "properties": {
+    "id":3,
+    "umd_tree_cover_loss__year":2009,
+    "treeloss":22272.50298,
+    "emissions":15817348.58
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -62.851125,-10.98941 ]
+    },
+    "properties": {
+    "id":4,
+    "umd_tree_cover_loss__year":2009,
+    "treeloss":128265.9615,
+    "emissions":81490868.21
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -64.636515,-4.917967 ]
+    },
+    "properties": {
+    "id":5,
+    "umd_tree_cover_loss__year":2009,
+    "treeloss":166359.9526,
+    "emissions":52628273.51
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -41.436665,-12.356026 ]
+    },
+    "properties": {
+    "id":6,
+    "umd_tree_cover_loss__year":2009,
+    "treeloss":3990.835793,
+    "emissions":946232.6653
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -44.07499,-19.673738 ]
+    },
+    "properties": {
+    "id":7,
+    "umd_tree_cover_loss__year":2009,
+    "treeloss":143.1347736,
+    "emissions":45875.80799
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -48.364515,-10.640834 ]
+    },
+    "properties": {
+    "id":8,
+    "umd_tree_cover_loss__year":2009,
+    "treeloss":15416.98272,
+    "emissions":9909328.109
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [  -54.685419,-20.600709 ]
+    },
+    "properties": {
+    "id":9,
+    "umd_tree_cover_loss__year":2009,
+    "treeloss":48662.56977,
+    "emissions":16610002.07
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -70.555891,-8.938229 ]
+    },
+    "properties": {
+    "id":10,
+    "umd_tree_cover_loss__year":2009,
+    "treeloss":118923.5954,
+    "emissions":46899909.64
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -42.509818,-7.262452 ]
+    },
+    "properties": {
+    "id":11,
+    "umd_tree_cover_loss__year":2009,
+    "treeloss":57814.19447,
+    "emissions":24094093.12
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -51.466086,-24.622207 ]
+    },
+    "properties": {
+    "id":12,
+    "umd_tree_cover_loss__year":2009,
+    "treeloss":202112.539,
+    "emissions":100308463.9
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -52.408564,-5.182671 ]
+    },
+    "properties": {
+    "id":1,
+    "umd_tree_cover_loss__year":2010,
+    "treeloss":42518.59084,
+    "emissions":31542336.94
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -55.900806,-12.921916 ]
+    },
+    "properties": {
+    "id":2,
+    "umd_tree_cover_loss__year":2010,
+    "treeloss":6551.617657,
+    "emissions":2211374.857
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -45.265612,-4.971627 ]
+    },
+    "properties": {
+    "id":3,
+    "umd_tree_cover_loss__year":2010,
+    "treeloss":10648.86383,
+    "emissions":8238019.886
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -62.851125,-10.98941 ]
+    },
+    "properties": {
+    "id":4,
+    "umd_tree_cover_loss__year":2010,
+    "treeloss":150467.6869,
+    "emissions":97569493.75
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -64.636515,-4.917967 ]
+    },
+    "properties": {
+    "id":5,
+    "umd_tree_cover_loss__year":2010,
+    "treeloss":195412.3647,
+    "emissions":67696156.59
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -41.436665,-12.356026 ]
+    },
+    "properties": {
+    "id":6,
+    "umd_tree_cover_loss__year":2010,
+    "treeloss":37853.4004,
+    "emissions":9368086.611
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -44.07499,-19.673738 ]
+    },
+    "properties": {
+    "id":7,
+    "umd_tree_cover_loss__year":2010,
+    "treeloss":129.8964169,
+    "emissions":45300.23602
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -48.364515,-10.640834 ]
+    },
+    "properties": {
+    "id":8,
+    "umd_tree_cover_loss__year":2010,
+    "treeloss":14060.69963,
+    "emissions":10505608.16
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [  -54.685419,-20.600709 ]
+    },
+    "properties": {
+    "id":9,
+    "umd_tree_cover_loss__year":2010,
+    "treeloss":40086.38012,
+    "emissions":14211396.39
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -70.555891,-8.938229 ]
+    },
+    "properties": {
+    "id":10,
+    "umd_tree_cover_loss__year":2010,
+    "treeloss":255849.4215,
+    "emissions":109959108.2
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -42.509818,-7.262452 ]
+    },
+    "properties": {
+    "id":11,
+    "umd_tree_cover_loss__year":2010,
+    "treeloss":56953.63161,
+    "emissions":23788284.82
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -51.466086,-24.622207 ]
+    },
+    "properties": {
+    "id":12,
+    "umd_tree_cover_loss__year":2010,
+    "treeloss":520185.1092,
+    "emissions":278172785.4
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -52.408564,-5.182671 ]
+    },
+    "properties": {
+    "id":1,
+    "umd_tree_cover_loss__year":2011,
+    "treeloss":40098.2101,
+    "emissions":30022922.97
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -55.900806,-12.921916 ]
+    },
+    "properties": {
+    "id":2,
+    "umd_tree_cover_loss__year":2011,
+    "treeloss":2715.518175,
+    "emissions":879235.4081
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -45.265612,-4.971627 ]
+    },
+    "properties": {
+    "id":3,
+    "umd_tree_cover_loss__year":2011,
+    "treeloss":13879.87905,
+    "emissions":11538367.35
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -62.851125,-10.98941 ]
+    },
+    "properties": {
+    "id":4,
+    "umd_tree_cover_loss__year":2011,
+    "treeloss":85825.84446,
+    "emissions":57805699.93
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -64.636515,-4.917967 ]
+    },
+    "properties": {
+    "id":5,
+    "umd_tree_cover_loss__year":2011,
+    "treeloss":147831.0549,
+    "emissions":61687625.88
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -41.436665,-12.356026 ]
+    },
+    "properties": {
+    "id":6,
+    "umd_tree_cover_loss__year":2011,
+    "treeloss":6860.613703,
+    "emissions":1745885.747
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -44.07499,-19.673738 ]
+    },
+    "properties": {
+    "id":7,
+    "umd_tree_cover_loss__year":2011,
+    "treeloss":134.3072465,
+    "emissions":47675.28255
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -48.364515,-10.640834 ]
+    },
+    "properties": {
+    "id":8,
+    "umd_tree_cover_loss__year":2011,
+    "treeloss":15621.50977,
+    "emissions":13190241.51
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [  -54.685419,-20.600709 ]
+    },
+    "properties": {
+    "id":9,
+    "umd_tree_cover_loss__year":2011,
+    "treeloss":41499.34504,
+    "emissions":16532281.65
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -70.555891,-8.938229 ]
+    },
+    "properties": {
+    "id":10,
+    "umd_tree_cover_loss__year":2011,
+    "treeloss":139132.3072,
+    "emissions":57904746.67
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -42.509818,-7.262452 ]
+    },
+    "properties": {
+    "id":11,
+    "umd_tree_cover_loss__year":2011,
+    "treeloss":74918.33701,
+    "emissions":37826746.03
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -51.466086,-24.622207 ]
+    },
+    "properties": {
+    "id":12,
+    "umd_tree_cover_loss__year":2011,
+    "treeloss":344885.776,
+    "emissions":174472666.3
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -52.408564,-5.182671 ]
+    },
+    "properties": {
+    "id":1,
+    "umd_tree_cover_loss__year":2012,
+    "treeloss":62675.63578,
+    "emissions":48311461.06
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -55.900806,-12.921916 ]
+    },
+    "properties": {
+    "id":2,
+    "umd_tree_cover_loss__year":2012,
+    "treeloss":5841.909315,
+    "emissions":2305288.018
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -45.265612,-4.971627 ]
+    },
+    "properties": {
+    "id":3,
+    "umd_tree_cover_loss__year":2012,
+    "treeloss":20234.43752,
+    "emissions":14347270.89
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -62.851125,-10.98941 ]
+    },
+    "properties": {
+    "id":4,
+    "umd_tree_cover_loss__year":2012,
+    "treeloss":163604.2673,
+    "emissions":112374651.1
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -64.636515,-4.917967 ]
+    },
+    "properties": {
+    "id":5,
+    "umd_tree_cover_loss__year":2012,
+    "treeloss":274998.83,
+    "emissions":109274023.7
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -41.436665,-12.356026 ]
+    },
+    "properties": {
+    "id":6,
+    "umd_tree_cover_loss__year":2012,
+    "treeloss":32044.27257,
+    "emissions":8478479.888
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -44.07499,-19.673738 ]
+    },
+    "properties": {
+    "id":7,
+    "umd_tree_cover_loss__year":2012,
+    "treeloss":103.0121184,
+    "emissions":82261.9587
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -48.364515,-10.640834 ]
+    },
+    "properties": {
+    "id":8,
+    "umd_tree_cover_loss__year":2012,
+    "treeloss":22705.35979,
+    "emissions":17269709.03
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [  -54.685419,-20.600709 ]
+    },
+    "properties": {
+    "id":9,
+    "umd_tree_cover_loss__year":2012,
+    "treeloss":57117.70434,
+    "emissions":22365598.9
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -70.555891,-8.938229 ]
+    },
+    "properties": {
+    "id":10,
+    "umd_tree_cover_loss__year":2012,
+    "treeloss":258349.9309,
+    "emissions":105882058.5
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -42.509818,-7.262452 ]
+    },
+    "properties": {
+    "id":11,
+    "umd_tree_cover_loss__year":2012,
+    "treeloss":71916.99031,
+    "emissions":30434125.88
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -51.466086,-24.622207 ]
+    },
+    "properties": {
+    "id":12,
+    "umd_tree_cover_loss__year":2012,
+    "treeloss":535603.112,
+    "emissions":273036121.5
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -52.408564,-5.182671 ]
+    },
+    "properties": {
+    "id":1,
+    "umd_tree_cover_loss__year":2013,
+    "treeloss":49483.35192,
+    "emissions":37860401.95
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -55.900806,-12.921916 ]
+    },
+    "properties": {
+    "id":2,
+    "umd_tree_cover_loss__year":2013,
+    "treeloss":1896.491198,
+    "emissions":754789.8732
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -45.265612,-4.971627 ]
+    },
+    "properties": {
+    "id":3,
+    "umd_tree_cover_loss__year":2013,
+    "treeloss":14463.10549,
+    "emissions":9593313.818
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -62.851125,-10.98941 ]
+    },
+    "properties": {
+    "id":4,
+    "umd_tree_cover_loss__year":2013,
+    "treeloss":126022.0434,
+    "emissions":86284930.06
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -64.636515,-4.917967 ]
+    },
+    "properties": {
+    "id":5,
+    "umd_tree_cover_loss__year":2013,
+    "treeloss":153800.5024,
+    "emissions":74353749.5
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -41.436665,-12.356026 ]
+    },
+    "properties": {
+    "id":6,
+    "umd_tree_cover_loss__year":2013,
+    "treeloss":23378.65938,
+    "emissions":6812735.233
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -44.07499,-19.673738 ]
+    },
+    "properties": {
+    "id":7,
+    "umd_tree_cover_loss__year":2013,
+    "treeloss":19.94031178,
+    "emissions":59902.58239
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -48.364515,-10.640834 ]
+    },
+    "properties": {
+    "id":8,
+    "umd_tree_cover_loss__year":2013,
+    "treeloss":11060.20639,
+    "emissions":11913187.68
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [  -54.685419,-20.600709 ]
+    },
+    "properties": {
+    "id":9,
+    "umd_tree_cover_loss__year":2013,
+    "treeloss":36045.50042,
+    "emissions":17077953.54
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -70.555891,-8.938229 ]
+    },
+    "properties": {
+    "id":10,
+    "umd_tree_cover_loss__year":2013,
+    "treeloss":278220.9229,
+    "emissions":117708697.7
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -42.509818,-7.262452 ]
+    },
+    "properties": {
+    "id":11,
+    "umd_tree_cover_loss__year":2013,
+    "treeloss":36175.9013,
+    "emissions":32645747.96
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -51.466086,-24.622207 ]
+    },
+    "properties": {
+    "id":12,
+    "umd_tree_cover_loss__year":2013,
+    "treeloss":227026.2074,
+    "emissions":116599425.7
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -52.408564,-5.182671 ]
+    },
+    "properties": {
+    "id":1,
+    "umd_tree_cover_loss__year":2014,
+    "treeloss":63441.88948,
+    "emissions":48527182.16
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -55.900806,-12.921916 ]
+    },
+    "properties": {
+    "id":2,
+    "umd_tree_cover_loss__year":2014,
+    "treeloss":1976.599638,
+    "emissions":740132.4185
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -45.265612,-4.971627 ]
+    },
+    "properties": {
+    "id":3,
+    "umd_tree_cover_loss__year":2014,
+    "treeloss":16042.80596,
+    "emissions":10777854.25
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -62.851125,-10.98941 ]
+    },
+    "properties": {
+    "id":4,
+    "umd_tree_cover_loss__year":2014,
+    "treeloss":146342.9861,
+    "emissions":101287737.1
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -64.636515,-4.917967 ]
+    },
+    "properties": {
+    "id":5,
+    "umd_tree_cover_loss__year":2014,
+    "treeloss":186843.6991,
+    "emissions":95794860.72
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -41.436665,-12.356026 ]
+    },
+    "properties": {
+    "id":6,
+    "umd_tree_cover_loss__year":2014,
+    "treeloss":23824.2502,
+    "emissions":7132555.431
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -44.07499,-19.673738 ]
+    },
+    "properties": {
+    "id":7,
+    "umd_tree_cover_loss__year":2014,
+    "treeloss":126.9396931,
+    "emissions":177422.8433
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -48.364515,-10.640834 ]
+    },
+    "properties": {
+    "id":8,
+    "umd_tree_cover_loss__year":2014,
+    "treeloss":29282.83208,
+    "emissions":25496218.34
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [  -54.685419,-20.600709 ]
+    },
+    "properties": {
+    "id":9,
+    "umd_tree_cover_loss__year":2014,
+    "treeloss":51007.81372,
+    "emissions":24991996.81
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -70.555891,-8.938229 ]
+    },
+    "properties": {
+    "id":10,
+    "umd_tree_cover_loss__year":2014,
+    "treeloss":351383.8333,
+    "emissions":151432145
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -42.509818,-7.262452 ]
+    },
+    "properties": {
+    "id":11,
+    "umd_tree_cover_loss__year":2014,
+    "treeloss":48675.66981,
+    "emissions":39213160.91
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -51.466086,-24.622207 ]
+    },
+    "properties": {
+    "id":12,
+    "umd_tree_cover_loss__year":2014,
+    "treeloss":367276.6158,
+    "emissions":193297050.3
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -52.408564,-5.182671 ]
+    },
+    "properties": {
+    "id":1,
+    "umd_tree_cover_loss__year":2015,
+    "treeloss":49732.54926,
+    "emissions":37651198.87
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -55.900806,-12.921916 ]
+    },
+    "properties": {
+    "id":2,
+    "umd_tree_cover_loss__year":2015,
+    "treeloss":399.0951437,
+    "emissions":148679.6288
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -45.265612,-4.971627 ]
+    },
+    "properties": {
+    "id":3,
+    "umd_tree_cover_loss__year":2015,
+    "treeloss":14201.15423,
+    "emissions":9335705.895
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -62.851125,-10.98941 ]
+    },
+    "properties": {
+    "id":4,
+    "umd_tree_cover_loss__year":2015,
+    "treeloss":156875.8643,
+    "emissions":111020752.8
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -64.636515,-4.917967 ]
+    },
+    "properties": {
+    "id":5,
+    "umd_tree_cover_loss__year":2015,
+    "treeloss":167989.914,
+    "emissions":89064358.76
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -41.436665,-12.356026 ]
+    },
+    "properties": {
+    "id":6,
+    "umd_tree_cover_loss__year":2015,
+    "treeloss":10044.22396,
+    "emissions":3011205.46
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -44.07499,-19.673738 ]
+    },
+    "properties": {
+    "id":7,
+    "umd_tree_cover_loss__year":2015,
+    "treeloss":172.496874,
+    "emissions":146591.2477
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -48.364515,-10.640834 ]
+    },
+    "properties": {
+    "id":8,
+    "umd_tree_cover_loss__year":2015,
+    "treeloss":17543.6697,
+    "emissions":20744883.09
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [  -54.685419,-20.600709 ]
+    },
+    "properties": {
+    "id":9,
+    "umd_tree_cover_loss__year":2015,
+    "treeloss":44806.38795,
+    "emissions":24080093.33
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -70.555891,-8.938229 ]
+    },
+    "properties": {
+    "id":10,
+    "umd_tree_cover_loss__year":2015,
+    "treeloss":281048.7092,
+    "emissions":126046893.3
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -42.509818,-7.262452 ]
+    },
+    "properties": {
+    "id":11,
+    "umd_tree_cover_loss__year":2015,
+    "treeloss":41027.33571,
+    "emissions":48197610.81
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -51.466086,-24.622207 ]
+    },
+    "properties": {
+    "id":12,
+    "umd_tree_cover_loss__year":2015,
+    "treeloss":329615.939,
+    "emissions":179349205.5
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -52.408564,-5.182671 ]
+    },
+    "properties": {
+    "id":1,
+    "umd_tree_cover_loss__year":2016,
+    "treeloss":86612.94311,
+    "emissions":64685509.81
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -55.900806,-12.921916 ]
+    },
+    "properties": {
+    "id":2,
+    "umd_tree_cover_loss__year":2016,
+    "treeloss":893.6255793,
+    "emissions":353373.9376
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -45.265612,-4.971627 ]
+    },
+    "properties": {
+    "id":3,
+    "umd_tree_cover_loss__year":2016,
+    "treeloss":38424.90357,
+    "emissions":25965792.95
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -62.851125,-10.98941 ]
+    },
+    "properties": {
+    "id":4,
+    "umd_tree_cover_loss__year":2016,
+    "treeloss":547520.4818,
+    "emissions":355645073.2
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -64.636515,-4.917967 ]
+    },
+    "properties": {
+    "id":5,
+    "umd_tree_cover_loss__year":2016,
+    "treeloss":292820.9015,
+    "emissions":138965179
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -41.436665,-12.356026 ]
+    },
+    "properties": {
+    "id":6,
+    "umd_tree_cover_loss__year":2016,
+    "treeloss":16792.36411,
+    "emissions":5247535.925
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -44.07499,-19.673738 ]
+    },
+    "properties": {
+    "id":7,
+    "umd_tree_cover_loss__year":2016,
+    "treeloss":287.1301506,
+    "emissions":201028.2465
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -48.364515,-10.640834 ]
+    },
+    "properties": {
+    "id":8,
+    "umd_tree_cover_loss__year":2016,
+    "treeloss":26885.96531,
+    "emissions":24372788.19
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [  -54.685419,-20.600709 ]
+    },
+    "properties": {
+    "id":9,
+    "umd_tree_cover_loss__year":2016,
+    "treeloss":49045.29959,
+    "emissions":27852341.25
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -70.555891,-8.938229 ]
+    },
+    "properties": {
+    "id":10,
+    "umd_tree_cover_loss__year":2016,
+    "treeloss":799627.6594,
+    "emissions":380778192.9
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -42.509818,-7.262452 ]
+    },
+    "properties": {
+    "id":11,
+    "umd_tree_cover_loss__year":2016,
+    "treeloss":47996.22644,
+    "emissions":63678342.76
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -51.466086,-24.622207 ]
+    },
+    "properties": {
+    "id":12,
+    "umd_tree_cover_loss__year":2016,
+    "treeloss":587937.7011,
+    "emissions":317459670.6
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -52.408564,-5.182671 ]
+    },
+    "properties": {
+    "id":1,
+    "umd_tree_cover_loss__year":2017,
+    "treeloss":86123.52431,
+    "emissions":65128188.3
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -55.900806,-12.921916 ]
+    },
+    "properties": {
+    "id":2,
+    "umd_tree_cover_loss__year":2017,
+    "treeloss":2986.186734,
+    "emissions":1287847.713
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -45.265612,-4.971627 ]
+    },
+    "properties": {
+    "id":3,
+    "umd_tree_cover_loss__year":2017,
+    "treeloss":38141.21678,
+    "emissions":25487205.62
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -62.851125,-10.98941 ]
+    },
+    "properties": {
+    "id":4,
+    "umd_tree_cover_loss__year":2017,
+    "treeloss":263806.6163,
+    "emissions":182629236.3
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -64.636515,-4.917967 ]
+    },
+    "properties": {
+    "id":5,
+    "umd_tree_cover_loss__year":2017,
+    "treeloss":163955.6507,
+    "emissions":96328892.73
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -41.436665,-12.356026 ]
+    },
+    "properties": {
+    "id":6,
+    "umd_tree_cover_loss__year":2017,
+    "treeloss":19219.83103,
+    "emissions":6268832.438
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -44.07499,-19.673738 ]
+    },
+    "properties": {
+    "id":7,
+    "umd_tree_cover_loss__year":2017,
+    "treeloss":414.349379,
+    "emissions":248888.0919
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -48.364515,-10.640834 ]
+    },
+    "properties": {
+    "id":8,
+    "umd_tree_cover_loss__year":2017,
+    "treeloss":37151.70997,
+    "emissions":28391770.25
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [  -54.685419,-20.600709 ]
+    },
+    "properties": {
+    "id":9,
+    "umd_tree_cover_loss__year":2017,
+    "treeloss":95251.19264,
+    "emissions":47416590.64
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -70.555891,-8.938229 ]
+    },
+    "properties": {
+    "id":10,
+    "umd_tree_cover_loss__year":2017,
+    "treeloss":450528.7197,
+    "emissions":209324087.2
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -42.509818,-7.262452 ]
+    },
+    "properties": {
+    "id":11,
+    "umd_tree_cover_loss__year":2017,
+    "treeloss":53074.03054,
+    "emissions":55802605.18
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -51.466086,-24.622207 ]
+    },
+    "properties": {
+    "id":12,
+    "umd_tree_cover_loss__year":2017,
+    "treeloss":887072.2746,
+    "emissions":471644754.5
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -52.408564,-5.182671 ]
+    },
+    "properties": {
+    "id":1,
+    "umd_tree_cover_loss__year":2018,
+    "treeloss":84489.42251,
+    "emissions":65539677.29
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -55.900806,-12.921916 ]
+    },
+    "properties": {
+    "id":2,
+    "umd_tree_cover_loss__year":2018,
+    "treeloss":1487.368438,
+    "emissions":662705.4654
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -45.265612,-4.971627 ]
+    },
+    "properties": {
+    "id":3,
+    "umd_tree_cover_loss__year":2018,
+    "treeloss":13126.12941,
+    "emissions":8947130.784
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -62.851125,-10.98941 ]
+    },
+    "properties": {
+    "id":4,
+    "umd_tree_cover_loss__year":2018,
+    "treeloss":193802.1388,
+    "emissions":142814170.7
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -64.636515,-4.917967 ]
+    },
+    "properties": {
+    "id":5,
+    "umd_tree_cover_loss__year":2018,
+    "treeloss":126119.6047,
+    "emissions":63872613.59
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -41.436665,-12.356026 ]
+    },
+    "properties": {
+    "id":6,
+    "umd_tree_cover_loss__year":2018,
+    "treeloss":12824.46588,
+    "emissions":4264837.83
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -44.07499,-19.673738 ]
+    },
+    "properties": {
+    "id":7,
+    "umd_tree_cover_loss__year":2018,
+    "treeloss":224.7780865,
+    "emissions":164620.1783
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -48.364515,-10.640834 ]
+    },
+    "properties": {
+    "id":8,
+    "umd_tree_cover_loss__year":2018,
+    "treeloss":28954.43885,
+    "emissions":21812800.23
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [  -54.685419,-20.600709 ]
+    },
+    "properties": {
+    "id":9,
+    "umd_tree_cover_loss__year":2018,
+    "treeloss":33201.4262,
+    "emissions":19531956.51
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -70.555891,-8.938229 ]
+    },
+    "properties": {
+    "id":10,
+    "umd_tree_cover_loss__year":2018,
+    "treeloss":405396.8142,
+    "emissions":191601450.8
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -42.509818,-7.262452 ]
+    },
+    "properties": {
+    "id":11,
+    "umd_tree_cover_loss__year":2018,
+    "treeloss":38197.7025,
+    "emissions":39642373.32
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -51.466086,-24.622207 ]
+    },
+    "properties": {
+    "id":12,
+    "umd_tree_cover_loss__year":2018,
+    "treeloss":433439.9081,
+    "emissions":247605111.5
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -52.408564,-5.182671 ]
+    },
+    "properties": {
+    "id":1,
+    "umd_tree_cover_loss__year":2019,
+    "treeloss":84744.71073,
+    "emissions":66740775.05
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -55.900806,-12.921916 ]
+    },
+    "properties": {
+    "id":2,
+    "umd_tree_cover_loss__year":2019,
+    "treeloss":850.6560107,
+    "emissions":382494.0169
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -45.265612,-4.971627 ]
+    },
+    "properties": {
+    "id":3,
+    "umd_tree_cover_loss__year":2019,
+    "treeloss":9698.110496,
+    "emissions":6531851.725
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -62.851125,-10.98941 ]
+    },
+    "properties": {
+    "id":4,
+    "umd_tree_cover_loss__year":2019,
+    "treeloss":215503.7009,
+    "emissions":160286564.8
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -64.636515,-4.917967 ]
+    },
+    "properties": {
+    "id":5,
+    "umd_tree_cover_loss__year":2019,
+    "treeloss":104207.1003,
+    "emissions":48072466.88
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -41.436665,-12.356026 ]
+    },
+    "properties": {
+    "id":6,
+    "umd_tree_cover_loss__year":2019,
+    "treeloss":8010.349762,
+    "emissions":2775472.213
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -44.07499,-19.673738 ]
+    },
+    "properties": {
+    "id":7,
+    "umd_tree_cover_loss__year":2019,
+    "treeloss":132.4226462,
+    "emissions":105967.7404
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -48.364515,-10.640834 ]
+    },
+    "properties": {
+    "id":8,
+    "umd_tree_cover_loss__year":2019,
+    "treeloss":11386.20151,
+    "emissions":10210923.8
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [  -54.685419,-20.600709 ]
+    },
+    "properties": {
+    "id":9,
+    "umd_tree_cover_loss__year":2019,
+    "treeloss":40260.77777,
+    "emissions":22838297.17
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -70.555891,-8.938229 ]
+    },
+    "properties": {
+    "id":10,
+    "umd_tree_cover_loss__year":2019,
+    "treeloss":259756.1543,
+    "emissions":126241057.2
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -42.509818,-7.262452 ]
+    },
+    "properties": {
+    "id":11,
+    "umd_tree_cover_loss__year":2019,
+    "treeloss":57074.54606,
+    "emissions":39698792.12
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -51.466086,-24.622207 ]
+    },
+    "properties": {
+    "id":12,
+    "umd_tree_cover_loss__year":2019,
+    "treeloss":428627.7101,
+    "emissions":246760669.7
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -52.408564,-5.182671 ]
+    },
+    "properties": {
+    "id":1,
+    "umd_tree_cover_loss__year":2020,
+    "treeloss":90039.09026,
+    "emissions":70907748.07
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -55.900806,-12.921916 ]
+    },
+    "properties": {
+    "id":2,
+    "umd_tree_cover_loss__year":2020,
+    "treeloss":1457.757534,
+    "emissions":712358.6996
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -45.265612,-4.971627 ]
+    },
+    "properties": {
+    "id":3,
+    "umd_tree_cover_loss__year":2020,
+    "treeloss":8409.940561,
+    "emissions":6180495.746
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -62.851125,-10.98941 ]
+    },
+    "properties": {
+    "id":4,
+    "umd_tree_cover_loss__year":2020,
+    "treeloss":242978.0788,
+    "emissions":180220499
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -64.636515,-4.917967 ]
+    },
+    "properties": {
+    "id":5,
+    "umd_tree_cover_loss__year":2020,
+    "treeloss":110142.9447,
+    "emissions":46097223.79
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -41.436665,-12.356026 ]
+    },
+    "properties": {
+    "id":6,
+    "umd_tree_cover_loss__year":2020,
+    "treeloss":7614.166689,
+    "emissions":2689676.831
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -44.07499,-19.673738 ]
+    },
+    "properties": {
+    "id":7,
+    "umd_tree_cover_loss__year":2020,
+    "treeloss":59.4533053,
+    "emissions":88598.48753
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -48.364515,-10.640834 ]
+    },
+    "properties": {
+    "id":8,
+    "umd_tree_cover_loss__year":2020,
+    "treeloss":9218.748184,
+    "emissions":7953473.888
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [  -54.685419,-20.600709 ]
+    },
+    "properties": {
+    "id":9,
+    "umd_tree_cover_loss__year":2020,
+    "treeloss":37991.8828,
+    "emissions":20654257.82
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -70.555891,-8.938229 ]
+    },
+    "properties": {
+    "id":10,
+    "umd_tree_cover_loss__year":2020,
+    "treeloss":306836.8495,
+    "emissions":149304817.3
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -42.509818,-7.262452 ]
+    },
+    "properties": {
+    "id":11,
+    "umd_tree_cover_loss__year":2020,
+    "treeloss":130179.9053,
+    "emissions":62563674.08
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -51.466086,-24.622207 ]
+    },
+    "properties": {
+    "id":12,
+    "umd_tree_cover_loss__year":2020,
+    "treeloss":862443.9953,
+    "emissions":451160878.4
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -52.408564,-5.182671 ]
+    },
+    "properties": {
+    "id":1,
+    "umd_tree_cover_loss__year":2021,
+    "treeloss":117865.6897,
+    "emissions":93311191.74
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -55.900806,-12.921916 ]
+    },
+    "properties": {
+    "id":2,
+    "umd_tree_cover_loss__year":2021,
+    "treeloss":838.3444767,
+    "emissions":425009.945
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -45.265612,-4.971627 ]
+    },
+    "properties": {
+    "id":3,
+    "umd_tree_cover_loss__year":2021,
+    "treeloss":5964.398174,
+    "emissions":5419302.24
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -62.851125,-10.98941 ]
+    },
+    "properties": {
+    "id":4,
+    "umd_tree_cover_loss__year":2021,
+    "treeloss":313520.6806,
+    "emissions":238631234.6
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -64.636515,-4.917967 ]
+    },
+    "properties": {
+    "id":5,
+    "umd_tree_cover_loss__year":2021,
+    "treeloss":120012.907,
+    "emissions":46127438.49
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -41.436665,-12.356026 ]
+    },
+    "properties": {
+    "id":6,
+    "umd_tree_cover_loss__year":2021,
+    "treeloss":8376.662024,
+    "emissions":3091845.794
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -44.07499,-19.673738 ]
+    },
+    "properties": {
+    "id":7,
+    "umd_tree_cover_loss__year":2021,
+    "treeloss":36.83816699,
+    "emissions":82516.71876
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -48.364515,-10.640834 ]
+    },
+    "properties": {
+    "id":8,
+    "umd_tree_cover_loss__year":2021,
+    "treeloss":7071.636397,
+    "emissions":6603269.248
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [  -54.685419,-20.600709 ]
+    },
+    "properties": {
+    "id":9,
+    "umd_tree_cover_loss__year":2021,
+    "treeloss":40521.33347,
+    "emissions":21556845.47
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -70.555891,-8.938229 ]
+    },
+    "properties": {
+    "id":10,
+    "umd_tree_cover_loss__year":2021,
+    "treeloss":298599.792,
+    "emissions":146953597.6
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -42.509818,-7.262452 ]
+    },
+    "properties": {
+    "id":11,
+    "umd_tree_cover_loss__year":2021,
+    "treeloss":119268.8145,
+    "emissions":59182397.8
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -51.466086,-24.622207 ]
+    },
+    "properties": {
+    "id":12,
+    "umd_tree_cover_loss__year":2021,
+    "treeloss":528205.4878,
+    "emissions":291154793.2
+    }
+  }
+]
+}
