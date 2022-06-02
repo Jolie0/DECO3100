@@ -1,0 +1,2651 @@
+{
+   "type": "FeatureCollection",
+   "features": [
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -87.568069,33.208496 ]
+    },
+    "properties": {
+    "iso":"BRA",
+    "adm1":1,
+    "umd_tree_cover_loss__year":2001,
+    "umd_tree_cover_loss__ha":67309.77199,
+    "gfw_gross_emissions_co2e_all_gases__Mg":43.65806311
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -37.713501,-6.54219 ]
+    },
+    "properties": {
+    "iso":"BRA",
+    "adm1":2,
+    "umd_tree_cover_loss__year":2001,
+    "umd_tree_cover_loss__ha":7475.453874,
+    "gfw_gross_emissions_co2e_all_gases__Mg":1.835644116
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -45.274418,-4.96095 ]
+    },
+    "properties": {
+    "iso":"BRA",
+    "adm1":3,
+    "umd_tree_cover_loss__year":2001,
+    "umd_tree_cover_loss__ha":13926.98469,
+    "gfw_gross_emissions_co2e_all_gases__Mg":8.597544278
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -63.293072,-10.83077 ]
+    },
+    "properties": {
+    "iso":"BRA",
+    "adm1":4,
+    "umd_tree_cover_loss__year":2001,
+    "umd_tree_cover_loss__ha":81439.17301,
+    "gfw_gross_emissions_co2e_all_gases__Mg":50.36381274
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -78.791252,-3.3617 ]
+    },
+    "properties": {
+    "iso":"BRA",
+    "adm1":5,
+    "umd_tree_cover_loss__year":2001,
+    "umd_tree_cover_loss__ha":145822.4644,
+    "gfw_gross_emissions_co2e_all_gases__Mg":35.98340442
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -44.555031,-18.512178 ]
+    },
+    "properties": {
+    "iso":"BRA",
+    "adm1":7,
+    "umd_tree_cover_loss__year":2001,
+    "umd_tree_cover_loss__ha":251.6442695,
+    "gfw_gross_emissions_co2e_all_gases__Mg":0.062311987
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -43.021549,-21.17524 ]
+    },
+    "properties": {
+    "iso":"BRA",
+    "adm1":8,
+    "umd_tree_cover_loss__year":2001,
+    "umd_tree_cover_loss__ha":22842.48782,
+    "gfw_gross_emissions_co2e_all_gases__Mg":8.879384072
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -37.713501,-6.54219 ]
+    },
+    "properties": {
+    "iso":"BRA",
+    "adm1":9,
+    "umd_tree_cover_loss__year":2001,
+    "umd_tree_cover_loss__ha":73928.81873,
+    "gfw_gross_emissions_co2e_all_gases__Mg":18.48893354
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -70.30146,-9.12893 ]
+    },
+    "properties": {
+    "iso":"BRA",
+    "adm1":10,
+    "umd_tree_cover_loss__year":2001,
+    "umd_tree_cover_loss__ha":84245.8805,
+    "gfw_gross_emissions_co2e_all_gases__Mg":29.26603224
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -87.568069,33.208496 ]
+    },
+    "properties": {
+    "iso":"BRA",
+    "adm1":1,
+    "umd_tree_cover_loss__year":2002,
+    "umd_tree_cover_loss__ha":68439.01864,
+    "gfw_gross_emissions_co2e_all_gases__Mg":49.55406499
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -37.713501,-6.54219 ]
+    },
+    "properties": {
+    "iso":"BRA",
+    "adm1":2,
+    "umd_tree_cover_loss__year":2002,
+    "umd_tree_cover_loss__ha":4618.538816,
+    "gfw_gross_emissions_co2e_all_gases__Mg":1.509533055
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -45.274418,-4.96095 ]
+    },
+    "properties": {
+    "iso":"BRA",
+    "adm1":3,
+    "umd_tree_cover_loss__year":2002,
+    "umd_tree_cover_loss__ha":13905.37718,
+    "gfw_gross_emissions_co2e_all_gases__Mg":8.555984513
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -63.293072,-10.83077 ]
+    },
+    "properties": {
+    "iso":"BRA",
+    "adm1":4,
+    "umd_tree_cover_loss__year":2002,
+    "umd_tree_cover_loss__ha":99140.45758,
+    "gfw_gross_emissions_co2e_all_gases__Mg":63.37634381
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -78.791252,-3.3617 ]
+    },
+    "properties": {
+    "iso":"BRA",
+    "adm1":5,
+    "umd_tree_cover_loss__year":2002,
+    "umd_tree_cover_loss__ha":120268.488,
+    "gfw_gross_emissions_co2e_all_gases__Mg":32.94321352
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -44.555031,-18.512178 ]
+    },
+    "properties": {
+    "iso":"BRA",
+    "adm1":7,
+    "umd_tree_cover_loss__year":2002,
+    "umd_tree_cover_loss__ha":70.94968162,
+    "gfw_gross_emissions_co2e_all_gases__Mg":0.019326862
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -43.021549,-21.17524 ]
+    },
+    "properties": {
+    "iso":"BRA",
+    "adm1":8,
+    "umd_tree_cover_loss__year":2002,
+    "umd_tree_cover_loss__ha":24873.89252,
+    "gfw_gross_emissions_co2e_all_gases__Mg":11.75399382
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -37.713501,-6.54219 ]
+    },
+    "properties": {
+    "iso":"BRA",
+    "adm1":9,
+    "umd_tree_cover_loss__year":2002,
+    "umd_tree_cover_loss__ha":88135.05418,
+    "gfw_gross_emissions_co2e_all_gases__Mg":23.20955944
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -70.30146,-9.12893 ]
+    },
+    "properties": {
+    "iso":"BRA",
+    "adm1":10,
+    "umd_tree_cover_loss__year":2002,
+    "umd_tree_cover_loss__ha":170127.6929,
+    "gfw_gross_emissions_co2e_all_gases__Mg":62.44192828
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -87.568069,33.208496 ]
+    },
+    "properties": {
+    "iso":"BRA",
+    "adm1":1,
+    "umd_tree_cover_loss__year":2003,
+    "umd_tree_cover_loss__ha":37665.7936,
+    "gfw_gross_emissions_co2e_all_gases__Mg":26.49385337
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -37.713501,-6.54219 ]
+    },
+    "properties": {
+    "iso":"BRA",
+    "adm1":2,
+    "umd_tree_cover_loss__year":2003,
+    "umd_tree_cover_loss__ha":7106.333809,
+    "gfw_gross_emissions_co2e_all_gases__Mg":1.907667867
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -45.274418,-4.96095 ]
+    },
+    "properties": {
+    "iso":"BRA",
+    "adm1":3,
+    "umd_tree_cover_loss__year":2003,
+    "umd_tree_cover_loss__ha":9796.097241,
+    "gfw_gross_emissions_co2e_all_gases__Mg":6.312132358
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -63.293072,-10.83077 ]
+    },
+    "properties": {
+    "iso":"BRA",
+    "adm1":4,
+    "umd_tree_cover_loss__year":2003,
+    "umd_tree_cover_loss__ha":102013.1572,
+    "gfw_gross_emissions_co2e_all_gases__Mg":69.90293849
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -78.791252,-3.3617 ]
+    },
+    "properties": {
+    "iso":"BRA",
+    "adm1":5,
+    "umd_tree_cover_loss__year":2003,
+    "umd_tree_cover_loss__ha":163576.9694,
+    "gfw_gross_emissions_co2e_all_gases__Mg":39.66320972
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -44.555031,-18.512178 ]
+    },
+    "properties": {
+    "iso":"BRA",
+    "adm1":7,
+    "umd_tree_cover_loss__year":2003,
+    "umd_tree_cover_loss__ha":247.795414,
+    "gfw_gross_emissions_co2e_all_gases__Mg":0.058733154
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -43.021549,-21.17524 ]
+    },
+    "properties": {
+    "iso":"BRA",
+    "adm1":8,
+    "umd_tree_cover_loss__year":2003,
+    "umd_tree_cover_loss__ha":21073.56734,
+    "gfw_gross_emissions_co2e_all_gases__Mg":9.320216731
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -37.713501,-6.54219 ]
+    },
+    "properties": {
+    "iso":"BRA",
+    "adm1":9,
+    "umd_tree_cover_loss__year":2003,
+    "umd_tree_cover_loss__ha":84577.55699,
+    "gfw_gross_emissions_co2e_all_gases__Mg":23.37316674
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -70.30146,-9.12893 ]
+    },
+    "properties": {
+    "iso":"BRA",
+    "adm1":10,
+    "umd_tree_cover_loss__year":2003,
+    "umd_tree_cover_loss__ha":96298.78655,
+    "gfw_gross_emissions_co2e_all_gases__Mg":36.18042152
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -87.568069,33.208496 ]
+    },
+    "properties": {
+    "iso":"BRA",
+    "adm1":1,
+    "umd_tree_cover_loss__year":2004,
+    "umd_tree_cover_loss__ha":67190.46413,
+    "gfw_gross_emissions_co2e_all_gases__Mg":48.91500524
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -37.713501,-6.54219 ]
+    },
+    "properties": {
+    "iso":"BRA",
+    "adm1":2,
+    "umd_tree_cover_loss__year":2004,
+    "umd_tree_cover_loss__ha":1526.121665,
+    "gfw_gross_emissions_co2e_all_gases__Mg":0.370097566
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -45.274418,-4.96095 ]
+    },
+    "properties": {
+    "iso":"BRA",
+    "adm1":3,
+    "umd_tree_cover_loss__year":2004,
+    "umd_tree_cover_loss__ha":16619.12944,
+    "gfw_gross_emissions_co2e_all_gases__Mg":9.789643587
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -63.293072,-10.83077 ]
+    },
+    "properties": {
+    "iso":"BRA",
+    "adm1":4,
+    "umd_tree_cover_loss__year":2004,
+    "umd_tree_cover_loss__ha":94389.26418,
+    "gfw_gross_emissions_co2e_all_gases__Mg":64.41683563
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -78.791252,-3.3617 ]
+    },
+    "properties": {
+    "iso":"BRA",
+    "adm1":5,
+    "umd_tree_cover_loss__year":2004,
+    "umd_tree_cover_loss__ha":152279.3017,
+    "gfw_gross_emissions_co2e_all_gases__Mg":45.86886148
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -44.555031,-18.512178 ]
+    },
+    "properties": {
+    "iso":"BRA",
+    "adm1":7,
+    "umd_tree_cover_loss__year":2004,
+    "umd_tree_cover_loss__ha":62.82516949,
+    "gfw_gross_emissions_co2e_all_gases__Mg":0.017851991
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -43.021549,-21.17524 ]
+    },
+    "properties": {
+    "iso":"BRA",
+    "adm1":8,
+    "umd_tree_cover_loss__year":2004,
+    "umd_tree_cover_loss__ha":13599.83258,
+    "gfw_gross_emissions_co2e_all_gases__Mg":7.292486415
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -37.713501,-6.54219 ]
+    },
+    "properties": {
+    "iso":"BRA",
+    "adm1":9,
+    "umd_tree_cover_loss__year":2004,
+    "umd_tree_cover_loss__ha":85881.11369,
+    "gfw_gross_emissions_co2e_all_gases__Mg":24.33037476
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -70.30146,-9.12893 ]
+    },
+    "properties": {
+    "iso":"BRA",
+    "adm1":10,
+    "umd_tree_cover_loss__year":2004,
+    "umd_tree_cover_loss__ha":197213.585,
+    "gfw_gross_emissions_co2e_all_gases__Mg":66.17078753
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -87.568069,33.208496 ]
+    },
+    "properties": {
+    "iso":"BRA",
+    "adm1":1,
+    "umd_tree_cover_loss__year":2005,
+    "umd_tree_cover_loss__ha":169859.9489,
+    "gfw_gross_emissions_co2e_all_gases__Mg":120.1954125
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -37.713501,-6.54219 ]
+    },
+    "properties": {
+    "iso":"BRA",
+    "adm1":2,
+    "umd_tree_cover_loss__year":2005,
+    "umd_tree_cover_loss__ha":5783.800413,
+    "gfw_gross_emissions_co2e_all_gases__Mg":1.860965067
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -45.274418,-4.96095 ]
+    },
+    "properties": {
+    "iso":"BRA",
+    "adm1":3,
+    "umd_tree_cover_loss__year":2005,
+    "umd_tree_cover_loss__ha":14145.03542,
+    "gfw_gross_emissions_co2e_all_gases__Mg":8.336623511
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -63.293072,-10.83077 ]
+    },
+    "properties": {
+    "iso":"BRA",
+    "adm1":4,
+    "umd_tree_cover_loss__year":2005,
+    "umd_tree_cover_loss__ha":174667.0621,
+    "gfw_gross_emissions_co2e_all_gases__Mg":119.1078045
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -78.791252,-3.3617 ]
+    },
+    "properties": {
+    "iso":"BRA",
+    "adm1":5,
+    "umd_tree_cover_loss__year":2005,
+    "umd_tree_cover_loss__ha":145692.7817,
+    "gfw_gross_emissions_co2e_all_gases__Mg":42.64746489
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -44.555031,-18.512178 ]
+    },
+    "properties": {
+    "iso":"BRA",
+    "adm1":7,
+    "umd_tree_cover_loss__year":2005,
+    "umd_tree_cover_loss__ha":226.0553217,
+    "gfw_gross_emissions_co2e_all_gases__Mg":0.061938598
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -43.021549,-21.17524 ]
+    },
+    "properties": {
+    "iso":"BRA",
+    "adm1":8,
+    "umd_tree_cover_loss__year":2005,
+    "umd_tree_cover_loss__ha":16216.14825,
+    "gfw_gross_emissions_co2e_all_gases__Mg":8.660512557
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -37.713501,-6.54219 ]
+    },
+    "properties": {
+    "iso":"BRA",
+    "adm1":9,
+    "umd_tree_cover_loss__year":2005,
+    "umd_tree_cover_loss__ha":69966.40639,
+    "gfw_gross_emissions_co2e_all_gases__Mg":20.87561939
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -70.30146,-9.12893 ]
+    },
+    "properties": {
+    "iso":"BRA",
+    "adm1":10,
+    "umd_tree_cover_loss__year":2005,
+    "umd_tree_cover_loss__ha":168330.5686,
+    "gfw_gross_emissions_co2e_all_gases__Mg":67.20221959
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -87.568069,33.208496 ]
+    },
+    "properties": {
+    "iso":"BRA",
+    "adm1":1,
+    "umd_tree_cover_loss__year":2006,
+    "umd_tree_cover_loss__ha":40138.27018,
+    "gfw_gross_emissions_co2e_all_gases__Mg":29.80728076
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -37.713501,-6.54219 ]
+    },
+    "properties": {
+    "iso":"BRA",
+    "adm1":2,
+    "umd_tree_cover_loss__year":2006,
+    "umd_tree_cover_loss__ha":7887.440155,
+    "gfw_gross_emissions_co2e_all_gases__Mg":2.557998874
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -45.274418,-4.96095 ]
+    },
+    "properties": {
+    "iso":"BRA",
+    "adm1":3,
+    "umd_tree_cover_loss__year":2006,
+    "umd_tree_cover_loss__ha":13021.61726,
+    "gfw_gross_emissions_co2e_all_gases__Mg":7.568738117
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -63.293072,-10.83077 ]
+    },
+    "properties": {
+    "iso":"BRA",
+    "adm1":4,
+    "umd_tree_cover_loss__year":2006,
+    "umd_tree_cover_loss__ha":154847.8263,
+    "gfw_gross_emissions_co2e_all_gases__Mg":106.8370852
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -78.791252,-3.3617 ]
+    },
+    "properties": {
+    "iso":"BRA",
+    "adm1":5,
+    "umd_tree_cover_loss__year":2006,
+    "umd_tree_cover_loss__ha":177051.8549,
+    "gfw_gross_emissions_co2e_all_gases__Mg":53.23075585
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -44.555031,-18.512178 ]
+    },
+    "properties": {
+    "iso":"BRA",
+    "adm1":7,
+    "umd_tree_cover_loss__year":2006,
+    "umd_tree_cover_loss__ha":59.14775875,
+    "gfw_gross_emissions_co2e_all_gases__Mg":0.017219146
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -43.021549,-21.17524 ]
+    },
+    "properties": {
+    "iso":"BRA",
+    "adm1":8,
+    "umd_tree_cover_loss__year":2006,
+    "umd_tree_cover_loss__ha":13347.4354,
+    "gfw_gross_emissions_co2e_all_gases__Mg":7.048880183
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -37.713501,-6.54219 ]
+    },
+    "properties": {
+    "iso":"BRA",
+    "adm1":9,
+    "umd_tree_cover_loss__year":2006,
+    "umd_tree_cover_loss__ha":56121.17745,
+    "gfw_gross_emissions_co2e_all_gases__Mg":17.18709945
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -70.30146,-9.12893 ]
+    },
+    "properties": {
+    "iso":"BRA",
+    "adm1":10,
+    "umd_tree_cover_loss__year":2006,
+    "umd_tree_cover_loss__ha":184183.0856,
+    "gfw_gross_emissions_co2e_all_gases__Mg":75.95662436
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -87.568069,33.208496 ]
+    },
+    "properties": {
+    "iso":"BRA",
+    "adm1":1,
+    "umd_tree_cover_loss__year":2007,
+    "umd_tree_cover_loss__ha":34674.05542,
+    "gfw_gross_emissions_co2e_all_gases__Mg":26.3640162
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -37.713501,-6.54219 ]
+    },
+    "properties": {
+    "iso":"BRA",
+    "adm1":2,
+    "umd_tree_cover_loss__year":2007,
+    "umd_tree_cover_loss__ha":3963.209659,
+    "gfw_gross_emissions_co2e_all_gases__Mg":1.264259431
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -45.274418,-4.96095 ]
+    },
+    "properties": {
+    "iso":"BRA",
+    "adm1":3,
+    "umd_tree_cover_loss__year":2007,
+    "umd_tree_cover_loss__ha":11020.33745,
+    "gfw_gross_emissions_co2e_all_gases__Mg":7.196620931
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -63.293072,-10.83077 ]
+    },
+    "properties": {
+    "iso":"BRA",
+    "adm1":4,
+    "umd_tree_cover_loss__year":2007,
+    "umd_tree_cover_loss__ha":89356.34492,
+    "gfw_gross_emissions_co2e_all_gases__Mg":61.09476219
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -78.791252,-3.3617 ]
+    },
+    "properties": {
+    "iso":"BRA",
+    "adm1":5,
+    "umd_tree_cover_loss__year":2007,
+    "umd_tree_cover_loss__ha":183798.7481,
+    "gfw_gross_emissions_co2e_all_gases__Mg":55.02716364
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -44.555031,-18.512178 ]
+    },
+    "properties": {
+    "iso":"BRA",
+    "adm1":7,
+    "umd_tree_cover_loss__year":2007,
+    "umd_tree_cover_loss__ha":232.7372121,
+    "gfw_gross_emissions_co2e_all_gases__Mg":0.069912109
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -43.021549,-21.17524 ]
+    },
+    "properties": {
+    "iso":"BRA",
+    "adm1":8,
+    "umd_tree_cover_loss__year":2007,
+    "umd_tree_cover_loss__ha":12178.44735,
+    "gfw_gross_emissions_co2e_all_gases__Mg":7.369708617
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -37.713501,-6.54219 ]
+    },
+    "properties": {
+    "iso":"BRA",
+    "adm1":9,
+    "umd_tree_cover_loss__year":2007,
+    "umd_tree_cover_loss__ha":67503.96982,
+    "gfw_gross_emissions_co2e_all_gases__Mg":21.58215265
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -70.30146,-9.12893 ]
+    },
+    "properties": {
+    "iso":"BRA",
+    "adm1":10,
+    "umd_tree_cover_loss__year":2007,
+    "umd_tree_cover_loss__ha":208456.9729,
+    "gfw_gross_emissions_co2e_all_gases__Mg":83.61652886
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -87.568069,33.208496 ]
+    },
+    "properties": {
+    "iso":"BRA",
+    "adm1":1,
+    "umd_tree_cover_loss__year":2008,
+    "umd_tree_cover_loss__ha":55148.77633,
+    "gfw_gross_emissions_co2e_all_gases__Mg":40.87292513
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -37.713501,-6.54219 ]
+    },
+    "properties": {
+    "iso":"BRA",
+    "adm1":2,
+    "umd_tree_cover_loss__year":2008,
+    "umd_tree_cover_loss__ha":5753.004441,
+    "gfw_gross_emissions_co2e_all_gases__Mg":1.733751883
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -45.274418,-4.96095 ]
+    },
+    "properties": {
+    "iso":"BRA",
+    "adm1":3,
+    "umd_tree_cover_loss__year":2008,
+    "umd_tree_cover_loss__ha":13825.97796,
+    "gfw_gross_emissions_co2e_all_gases__Mg":9.242338024
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -63.293072,-10.83077 ]
+    },
+    "properties": {
+    "iso":"BRA",
+    "adm1":4,
+    "umd_tree_cover_loss__year":2008,
+    "umd_tree_cover_loss__ha":94494.93973,
+    "gfw_gross_emissions_co2e_all_gases__Mg":65.54431401
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -78.791252,-3.3617 ]
+    },
+    "properties": {
+    "iso":"BRA",
+    "adm1":5,
+    "umd_tree_cover_loss__year":2008,
+    "umd_tree_cover_loss__ha":171667.3856,
+    "gfw_gross_emissions_co2e_all_gases__Mg":57.70755134
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -44.555031,-18.512178 ]
+    },
+    "properties": {
+    "iso":"BRA",
+    "adm1":7,
+    "umd_tree_cover_loss__year":2008,
+    "umd_tree_cover_loss__ha":39.97352502,
+    "gfw_gross_emissions_co2e_all_gases__Mg":0.012487788
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -43.021549,-21.17524 ]
+    },
+    "properties": {
+    "iso":"BRA",
+    "adm1":8,
+    "umd_tree_cover_loss__year":2008,
+    "umd_tree_cover_loss__ha":9417.958885,
+    "gfw_gross_emissions_co2e_all_gases__Mg":5.384692019
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -37.713501,-6.54219 ]
+    },
+    "properties": {
+    "iso":"BRA",
+    "adm1":9,
+    "umd_tree_cover_loss__year":2008,
+    "umd_tree_cover_loss__ha":39725.08975,
+    "gfw_gross_emissions_co2e_all_gases__Mg":13.20039478
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -70.30146,-9.12893 ]
+    },
+    "properties": {
+    "iso":"BRA",
+    "adm1":10,
+    "umd_tree_cover_loss__year":2008,
+    "umd_tree_cover_loss__ha":210304.7538,
+    "gfw_gross_emissions_co2e_all_gases__Mg":80.79207704
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -87.568069,33.208496 ]
+    },
+    "properties": {
+    "iso":"BRA",
+    "adm1":1,
+    "umd_tree_cover_loss__year":2009,
+    "umd_tree_cover_loss__ha":35453.10797,
+    "gfw_gross_emissions_co2e_all_gases__Mg":26.83839127
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -37.713501,-6.54219 ]
+    },
+    "properties": {
+    "iso":"BRA",
+    "adm1":2,
+    "umd_tree_cover_loss__year":2009,
+    "umd_tree_cover_loss__ha":3632.939179,
+    "gfw_gross_emissions_co2e_all_gases__Mg":1.295281392
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -45.274418,-4.96095 ]
+    },
+    "properties": {
+    "iso":"BRA",
+    "adm1":3,
+    "umd_tree_cover_loss__year":2009,
+    "umd_tree_cover_loss__ha":22272.50298,
+    "gfw_gross_emissions_co2e_all_gases__Mg":15.81734858
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -63.293072,-10.83077 ]
+    },
+    "properties": {
+    "iso":"BRA",
+    "adm1":4,
+    "umd_tree_cover_loss__year":2009,
+    "umd_tree_cover_loss__ha":128265.9615,
+    "gfw_gross_emissions_co2e_all_gases__Mg":81.49086821
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -78.791252,-3.3617 ]
+    },
+    "properties": {
+    "iso":"BRA",
+    "adm1":5,
+    "umd_tree_cover_loss__year":2009,
+    "umd_tree_cover_loss__ha":166359.9526,
+    "gfw_gross_emissions_co2e_all_gases__Mg":52.62827351
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -44.555031,-18.512178 ]
+    },
+    "properties": {
+    "iso":"BRA",
+    "adm1":7,
+    "umd_tree_cover_loss__year":2009,
+    "umd_tree_cover_loss__ha":143.1347736,
+    "gfw_gross_emissions_co2e_all_gases__Mg":0.045875808
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -43.021549,-21.17524 ]
+    },
+    "properties": {
+    "iso":"BRA",
+    "adm1":8,
+    "umd_tree_cover_loss__year":2009,
+    "umd_tree_cover_loss__ha":15416.98272,
+    "gfw_gross_emissions_co2e_all_gases__Mg":9.909328109
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -37.713501,-6.54219 ]
+    },
+    "properties": {
+    "iso":"BRA",
+    "adm1":9,
+    "umd_tree_cover_loss__year":2009,
+    "umd_tree_cover_loss__ha":48662.56977,
+    "gfw_gross_emissions_co2e_all_gases__Mg":16.61000207
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -70.30146,-9.12893 ]
+    },
+    "properties": {
+    "iso":"BRA",
+    "adm1":10,
+    "umd_tree_cover_loss__year":2009,
+    "umd_tree_cover_loss__ha":118923.5954,
+    "gfw_gross_emissions_co2e_all_gases__Mg":46.89990964
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -87.568069,33.208496 ]
+    },
+    "properties": {
+    "iso":"BRA",
+    "adm1":1,
+    "umd_tree_cover_loss__year":2010,
+    "umd_tree_cover_loss__ha":42518.59084,
+    "gfw_gross_emissions_co2e_all_gases__Mg":31.54233694
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -37.713501,-6.54219 ]
+    },
+    "properties": {
+    "iso":"BRA",
+    "adm1":2,
+    "umd_tree_cover_loss__year":2010,
+    "umd_tree_cover_loss__ha":6551.617657,
+    "gfw_gross_emissions_co2e_all_gases__Mg":2.211374857
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -45.274418,-4.96095 ]
+    },
+    "properties": {
+    "iso":"BRA",
+    "adm1":3,
+    "umd_tree_cover_loss__year":2010,
+    "umd_tree_cover_loss__ha":10648.86383,
+    "gfw_gross_emissions_co2e_all_gases__Mg":8.238019886
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -63.293072,-10.83077 ]
+    },
+    "properties": {
+    "iso":"BRA",
+    "adm1":4,
+    "umd_tree_cover_loss__year":2010,
+    "umd_tree_cover_loss__ha":150467.6869,
+    "gfw_gross_emissions_co2e_all_gases__Mg":97.56949375
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -78.791252,-3.3617 ]
+    },
+    "properties": {
+    "iso":"BRA",
+    "adm1":5,
+    "umd_tree_cover_loss__year":2010,
+    "umd_tree_cover_loss__ha":195412.3647,
+    "gfw_gross_emissions_co2e_all_gases__Mg":67.69615659
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -44.555031,-18.512178 ]
+    },
+    "properties": {
+    "iso":"BRA",
+    "adm1":7,
+    "umd_tree_cover_loss__year":2010,
+    "umd_tree_cover_loss__ha":129.8964169,
+    "gfw_gross_emissions_co2e_all_gases__Mg":0.045300236
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -43.021549,-21.17524 ]
+    },
+    "properties": {
+    "iso":"BRA",
+    "adm1":8,
+    "umd_tree_cover_loss__year":2010,
+    "umd_tree_cover_loss__ha":14060.69963,
+    "gfw_gross_emissions_co2e_all_gases__Mg":10.50560816
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -37.713501,-6.54219 ]
+    },
+    "properties": {
+    "iso":"BRA",
+    "adm1":9,
+    "umd_tree_cover_loss__year":2010,
+    "umd_tree_cover_loss__ha":40086.38012,
+    "gfw_gross_emissions_co2e_all_gases__Mg":14.21139639
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -70.30146,-9.12893 ]
+    },
+    "properties": {
+    "iso":"BRA",
+    "adm1":10,
+    "umd_tree_cover_loss__year":2010,
+    "umd_tree_cover_loss__ha":255849.4215,
+    "gfw_gross_emissions_co2e_all_gases__Mg":109.9591082
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -87.568069,33.208496 ]
+    },
+    "properties": {
+    "iso":"BRA",
+    "adm1":1,
+    "umd_tree_cover_loss__year":2011,
+    "umd_tree_cover_loss__ha":40098.2101,
+    "gfw_gross_emissions_co2e_all_gases__Mg":30.02292297
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -37.713501,-6.54219 ]
+    },
+    "properties": {
+    "iso":"BRA",
+    "adm1":2,
+    "umd_tree_cover_loss__year":2011,
+    "umd_tree_cover_loss__ha":2715.518175,
+    "gfw_gross_emissions_co2e_all_gases__Mg":0.879235408
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -45.274418,-4.96095 ]
+    },
+    "properties": {
+    "iso":"BRA",
+    "adm1":3,
+    "umd_tree_cover_loss__year":2011,
+    "umd_tree_cover_loss__ha":13879.87905,
+    "gfw_gross_emissions_co2e_all_gases__Mg":11.53836735
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -63.293072,-10.83077 ]
+    },
+    "properties": {
+    "iso":"BRA",
+    "adm1":4,
+    "umd_tree_cover_loss__year":2011,
+    "umd_tree_cover_loss__ha":85825.84446,
+    "gfw_gross_emissions_co2e_all_gases__Mg":57.80569993
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -78.791252,-3.3617 ]
+    },
+    "properties": {
+    "iso":"BRA",
+    "adm1":5,
+    "umd_tree_cover_loss__year":2011,
+    "umd_tree_cover_loss__ha":147831.0549,
+    "gfw_gross_emissions_co2e_all_gases__Mg":61.68762588
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -44.555031,-18.512178 ]
+    },
+    "properties": {
+    "iso":"BRA",
+    "adm1":7,
+    "umd_tree_cover_loss__year":2011,
+    "umd_tree_cover_loss__ha":134.3072465,
+    "gfw_gross_emissions_co2e_all_gases__Mg":0.047675283
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -43.021549,-21.17524 ]
+    },
+    "properties": {
+    "iso":"BRA",
+    "adm1":8,
+    "umd_tree_cover_loss__year":2011,
+    "umd_tree_cover_loss__ha":15621.50977,
+    "gfw_gross_emissions_co2e_all_gases__Mg":13.19024151
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -37.713501,-6.54219 ]
+    },
+    "properties": {
+    "iso":"BRA",
+    "adm1":9,
+    "umd_tree_cover_loss__year":2011,
+    "umd_tree_cover_loss__ha":41499.34504,
+    "gfw_gross_emissions_co2e_all_gases__Mg":16.53228165
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -70.30146,-9.12893 ]
+    },
+    "properties": {
+    "iso":"BRA",
+    "adm1":10,
+    "umd_tree_cover_loss__year":2011,
+    "umd_tree_cover_loss__ha":139132.3072,
+    "gfw_gross_emissions_co2e_all_gases__Mg":57.90474667
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -87.568069,33.208496 ]
+    },
+    "properties": {
+    "iso":"BRA",
+    "adm1":1,
+    "umd_tree_cover_loss__year":2012,
+    "umd_tree_cover_loss__ha":62675.63578,
+    "gfw_gross_emissions_co2e_all_gases__Mg":48.31146106
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -37.713501,-6.54219 ]
+    },
+    "properties": {
+    "iso":"BRA",
+    "adm1":2,
+    "umd_tree_cover_loss__year":2012,
+    "umd_tree_cover_loss__ha":5841.909315,
+    "gfw_gross_emissions_co2e_all_gases__Mg":2.305288018
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -45.274418,-4.96095 ]
+    },
+    "properties": {
+    "iso":"BRA",
+    "adm1":3,
+    "umd_tree_cover_loss__year":2012,
+    "umd_tree_cover_loss__ha":20234.43752,
+    "gfw_gross_emissions_co2e_all_gases__Mg":14.34727089
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -63.293072,-10.83077 ]
+    },
+    "properties": {
+    "iso":"BRA",
+    "adm1":4,
+    "umd_tree_cover_loss__year":2012,
+    "umd_tree_cover_loss__ha":163604.2673,
+    "gfw_gross_emissions_co2e_all_gases__Mg":112.3746511
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -78.791252,-3.3617 ]
+    },
+    "properties": {
+    "iso":"BRA",
+    "adm1":5,
+    "umd_tree_cover_loss__year":2012,
+    "umd_tree_cover_loss__ha":274998.83,
+    "gfw_gross_emissions_co2e_all_gases__Mg":109.2740237
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -44.555031,-18.512178 ]
+    },
+    "properties": {
+    "iso":"BRA",
+    "adm1":7,
+    "umd_tree_cover_loss__year":2012,
+    "umd_tree_cover_loss__ha":103.0121184,
+    "gfw_gross_emissions_co2e_all_gases__Mg":0.082261959
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -43.021549,-21.17524 ]
+    },
+    "properties": {
+    "iso":"BRA",
+    "adm1":8,
+    "umd_tree_cover_loss__year":2012,
+    "umd_tree_cover_loss__ha":22705.35979,
+    "gfw_gross_emissions_co2e_all_gases__Mg":17.26970903
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -37.713501,-6.54219 ]
+    },
+    "properties": {
+    "iso":"BRA",
+    "adm1":9,
+    "umd_tree_cover_loss__year":2012,
+    "umd_tree_cover_loss__ha":57117.70434,
+    "gfw_gross_emissions_co2e_all_gases__Mg":22.3655989
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -70.30146,-9.12893 ]
+    },
+    "properties": {
+    "iso":"BRA",
+    "adm1":10,
+    "umd_tree_cover_loss__year":2012,
+    "umd_tree_cover_loss__ha":258349.9309,
+    "gfw_gross_emissions_co2e_all_gases__Mg":105.8820585
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -87.568069,33.208496 ]
+    },
+    "properties": {
+    "iso":"BRA",
+    "adm1":1,
+    "umd_tree_cover_loss__year":2013,
+    "umd_tree_cover_loss__ha":49483.35192,
+    "gfw_gross_emissions_co2e_all_gases__Mg":37.86040195
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -37.713501,-6.54219 ]
+    },
+    "properties": {
+    "iso":"BRA",
+    "adm1":2,
+    "umd_tree_cover_loss__year":2013,
+    "umd_tree_cover_loss__ha":1896.491198,
+    "gfw_gross_emissions_co2e_all_gases__Mg":0.754789873
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -45.274418,-4.96095 ]
+    },
+    "properties": {
+    "iso":"BRA",
+    "adm1":3,
+    "umd_tree_cover_loss__year":2013,
+    "umd_tree_cover_loss__ha":14463.10549,
+    "gfw_gross_emissions_co2e_all_gases__Mg":9.593313818
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -63.293072,-10.83077 ]
+    },
+    "properties": {
+    "iso":"BRA",
+    "adm1":4,
+    "umd_tree_cover_loss__year":2013,
+    "umd_tree_cover_loss__ha":126022.0434,
+    "gfw_gross_emissions_co2e_all_gases__Mg":86.28493006
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -78.791252,-3.3617 ]
+    },
+    "properties": {
+    "iso":"BRA",
+    "adm1":5,
+    "umd_tree_cover_loss__year":2013,
+    "umd_tree_cover_loss__ha":153800.5024,
+    "gfw_gross_emissions_co2e_all_gases__Mg":74.3537495
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -44.555031,-18.512178 ]
+    },
+    "properties": {
+    "iso":"BRA",
+    "adm1":7,
+    "umd_tree_cover_loss__year":2013,
+    "umd_tree_cover_loss__ha":19.94031178,
+    "gfw_gross_emissions_co2e_all_gases__Mg":0.059902582
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -43.021549,-21.17524 ]
+    },
+    "properties": {
+    "iso":"BRA",
+    "adm1":8,
+    "umd_tree_cover_loss__year":2013,
+    "umd_tree_cover_loss__ha":11060.20639,
+    "gfw_gross_emissions_co2e_all_gases__Mg":11.91318768
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -37.713501,-6.54219 ]
+    },
+    "properties": {
+    "iso":"BRA",
+    "adm1":9,
+    "umd_tree_cover_loss__year":2013,
+    "umd_tree_cover_loss__ha":36045.50042,
+    "gfw_gross_emissions_co2e_all_gases__Mg":17.07795354
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -70.30146,-9.12893 ]
+    },
+    "properties": {
+    "iso":"BRA",
+    "adm1":10,
+    "umd_tree_cover_loss__year":2013,
+    "umd_tree_cover_loss__ha":278220.9229,
+    "gfw_gross_emissions_co2e_all_gases__Mg":117.7086977
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -87.568069,33.208496 ]
+    },
+    "properties": {
+    "iso":"BRA",
+    "adm1":1,
+    "umd_tree_cover_loss__year":2014,
+    "umd_tree_cover_loss__ha":63441.88948,
+    "gfw_gross_emissions_co2e_all_gases__Mg":48.52718216
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -37.713501,-6.54219 ]
+    },
+    "properties": {
+    "iso":"BRA",
+    "adm1":2,
+    "umd_tree_cover_loss__year":2014,
+    "umd_tree_cover_loss__ha":1976.599638,
+    "gfw_gross_emissions_co2e_all_gases__Mg":0.740132418
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -45.274418,-4.96095 ]
+    },
+    "properties": {
+    "iso":"BRA",
+    "adm1":3,
+    "umd_tree_cover_loss__year":2014,
+    "umd_tree_cover_loss__ha":16042.80596,
+    "gfw_gross_emissions_co2e_all_gases__Mg":10.77785425
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -63.293072,-10.83077 ]
+    },
+    "properties": {
+    "iso":"BRA",
+    "adm1":4,
+    "umd_tree_cover_loss__year":2014,
+    "umd_tree_cover_loss__ha":146342.9861,
+    "gfw_gross_emissions_co2e_all_gases__Mg":101.2877371
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -78.791252,-3.3617 ]
+    },
+    "properties": {
+    "iso":"BRA",
+    "adm1":5,
+    "umd_tree_cover_loss__year":2014,
+    "umd_tree_cover_loss__ha":186843.6991,
+    "gfw_gross_emissions_co2e_all_gases__Mg":95.79486072
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -44.555031,-18.512178 ]
+    },
+    "properties": {
+    "iso":"BRA",
+    "adm1":7,
+    "umd_tree_cover_loss__year":2014,
+    "umd_tree_cover_loss__ha":126.9396931,
+    "gfw_gross_emissions_co2e_all_gases__Mg":0.177422843
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -43.021549,-21.17524 ]
+    },
+    "properties": {
+    "iso":"BRA",
+    "adm1":8,
+    "umd_tree_cover_loss__year":2014,
+    "umd_tree_cover_loss__ha":29282.83208,
+    "gfw_gross_emissions_co2e_all_gases__Mg":25.49621834
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -37.713501,-6.54219 ]
+    },
+    "properties": {
+    "iso":"BRA",
+    "adm1":9,
+    "umd_tree_cover_loss__year":2014,
+    "umd_tree_cover_loss__ha":51007.81372,
+    "gfw_gross_emissions_co2e_all_gases__Mg":24.99199681
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -70.30146,-9.12893 ]
+    },
+    "properties": {
+    "iso":"BRA",
+    "adm1":10,
+    "umd_tree_cover_loss__year":2014,
+    "umd_tree_cover_loss__ha":351383.8333,
+    "gfw_gross_emissions_co2e_all_gases__Mg":151.432145
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -87.568069,33.208496 ]
+    },
+    "properties": {
+    "iso":"BRA",
+    "adm1":1,
+    "umd_tree_cover_loss__year":2015,
+    "umd_tree_cover_loss__ha":49732.54926,
+    "gfw_gross_emissions_co2e_all_gases__Mg":37.65119887
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -37.713501,-6.54219 ]
+    },
+    "properties": {
+    "iso":"BRA",
+    "adm1":2,
+    "umd_tree_cover_loss__year":2015,
+    "umd_tree_cover_loss__ha":399.0951437,
+    "gfw_gross_emissions_co2e_all_gases__Mg":0.148679629
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -45.274418,-4.96095 ]
+    },
+    "properties": {
+    "iso":"BRA",
+    "adm1":3,
+    "umd_tree_cover_loss__year":2015,
+    "umd_tree_cover_loss__ha":14201.15423,
+    "gfw_gross_emissions_co2e_all_gases__Mg":9.335705895
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -63.293072,-10.83077 ]
+    },
+    "properties": {
+    "iso":"BRA",
+    "adm1":4,
+    "umd_tree_cover_loss__year":2015,
+    "umd_tree_cover_loss__ha":156875.8643,
+    "gfw_gross_emissions_co2e_all_gases__Mg":111.0207528
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -78.791252,-3.3617 ]
+    },
+    "properties": {
+    "iso":"BRA",
+    "adm1":5,
+    "umd_tree_cover_loss__year":2015,
+    "umd_tree_cover_loss__ha":167989.914,
+    "gfw_gross_emissions_co2e_all_gases__Mg":89.06435876
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -44.555031,-18.512178 ]
+    },
+    "properties": {
+    "iso":"BRA",
+    "adm1":7,
+    "umd_tree_cover_loss__year":2015,
+    "umd_tree_cover_loss__ha":172.496874,
+    "gfw_gross_emissions_co2e_all_gases__Mg":0.146591248
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -43.021549,-21.17524 ]
+    },
+    "properties": {
+    "iso":"BRA",
+    "adm1":8,
+    "umd_tree_cover_loss__year":2015,
+    "umd_tree_cover_loss__ha":17543.6697,
+    "gfw_gross_emissions_co2e_all_gases__Mg":20.74488309
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -37.713501,-6.54219 ]
+    },
+    "properties": {
+    "iso":"BRA",
+    "adm1":9,
+    "umd_tree_cover_loss__year":2015,
+    "umd_tree_cover_loss__ha":44806.38795,
+    "gfw_gross_emissions_co2e_all_gases__Mg":24.08009333
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -70.30146,-9.12893 ]
+    },
+    "properties": {
+    "iso":"BRA",
+    "adm1":10,
+    "umd_tree_cover_loss__year":2015,
+    "umd_tree_cover_loss__ha":281048.7092,
+    "gfw_gross_emissions_co2e_all_gases__Mg":126.0468933
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -87.568069,33.208496 ]
+    },
+    "properties": {
+    "iso":"BRA",
+    "adm1":1,
+    "umd_tree_cover_loss__year":2016,
+    "umd_tree_cover_loss__ha":86612.94311,
+    "gfw_gross_emissions_co2e_all_gases__Mg":64.68550981
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -37.713501,-6.54219 ]
+    },
+    "properties": {
+    "iso":"BRA",
+    "adm1":2,
+    "umd_tree_cover_loss__year":2016,
+    "umd_tree_cover_loss__ha":893.6255793,
+    "gfw_gross_emissions_co2e_all_gases__Mg":0.353373938
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -45.274418,-4.96095 ]
+    },
+    "properties": {
+    "iso":"BRA",
+    "adm1":3,
+    "umd_tree_cover_loss__year":2016,
+    "umd_tree_cover_loss__ha":38424.90357,
+    "gfw_gross_emissions_co2e_all_gases__Mg":25.96579295
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -63.293072,-10.83077 ]
+    },
+    "properties": {
+    "iso":"BRA",
+    "adm1":4,
+    "umd_tree_cover_loss__year":2016,
+    "umd_tree_cover_loss__ha":547520.4818,
+    "gfw_gross_emissions_co2e_all_gases__Mg":355.6450732
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -78.791252,-3.3617 ]
+    },
+    "properties": {
+    "iso":"BRA",
+    "adm1":5,
+    "umd_tree_cover_loss__year":2016,
+    "umd_tree_cover_loss__ha":292820.9015,
+    "gfw_gross_emissions_co2e_all_gases__Mg":138.965179
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -44.555031,-18.512178 ]
+    },
+    "properties": {
+    "iso":"BRA",
+    "adm1":7,
+    "umd_tree_cover_loss__year":2016,
+    "umd_tree_cover_loss__ha":287.1301506,
+    "gfw_gross_emissions_co2e_all_gases__Mg":0.201028246
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -43.021549,-21.17524 ]
+    },
+    "properties": {
+    "iso":"BRA",
+    "adm1":8,
+    "umd_tree_cover_loss__year":2016,
+    "umd_tree_cover_loss__ha":26885.96531,
+    "gfw_gross_emissions_co2e_all_gases__Mg":24.37278819
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -37.713501,-6.54219 ]
+    },
+    "properties": {
+    "iso":"BRA",
+    "adm1":9,
+    "umd_tree_cover_loss__year":2016,
+    "umd_tree_cover_loss__ha":49045.29959,
+    "gfw_gross_emissions_co2e_all_gases__Mg":27.85234125
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -70.30146,-9.12893 ]
+    },
+    "properties": {
+    "iso":"BRA",
+    "adm1":10,
+    "umd_tree_cover_loss__year":2016,
+    "umd_tree_cover_loss__ha":799627.6594,
+    "gfw_gross_emissions_co2e_all_gases__Mg":380.7781929
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -87.568069,33.208496 ]
+    },
+    "properties": {
+    "iso":"BRA",
+    "adm1":1,
+    "umd_tree_cover_loss__year":2017,
+    "umd_tree_cover_loss__ha":86123.52431,
+    "gfw_gross_emissions_co2e_all_gases__Mg":65.1281883
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -37.713501,-6.54219 ]
+    },
+    "properties": {
+    "iso":"BRA",
+    "adm1":2,
+    "umd_tree_cover_loss__year":2017,
+    "umd_tree_cover_loss__ha":2986.186734,
+    "gfw_gross_emissions_co2e_all_gases__Mg":1.287847713
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -45.274418,-4.96095 ]
+    },
+    "properties": {
+    "iso":"BRA",
+    "adm1":3,
+    "umd_tree_cover_loss__year":2017,
+    "umd_tree_cover_loss__ha":38141.21678,
+    "gfw_gross_emissions_co2e_all_gases__Mg":25.48720562
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -63.293072,-10.83077 ]
+    },
+    "properties": {
+    "iso":"BRA",
+    "adm1":4,
+    "umd_tree_cover_loss__year":2017,
+    "umd_tree_cover_loss__ha":263806.6163,
+    "gfw_gross_emissions_co2e_all_gases__Mg":182.6292363
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -78.791252,-3.3617 ]
+    },
+    "properties": {
+    "iso":"BRA",
+    "adm1":5,
+    "umd_tree_cover_loss__year":2017,
+    "umd_tree_cover_loss__ha":163955.6507,
+    "gfw_gross_emissions_co2e_all_gases__Mg":96.32889273
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -44.555031,-18.512178 ]
+    },
+    "properties": {
+    "iso":"BRA",
+    "adm1":7,
+    "umd_tree_cover_loss__year":2017,
+    "umd_tree_cover_loss__ha":414.349379,
+    "gfw_gross_emissions_co2e_all_gases__Mg":0.248888092
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -43.021549,-21.17524 ]
+    },
+    "properties": {
+    "iso":"BRA",
+    "adm1":8,
+    "umd_tree_cover_loss__year":2017,
+    "umd_tree_cover_loss__ha":37151.70997,
+    "gfw_gross_emissions_co2e_all_gases__Mg":28.39177025
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -37.713501,-6.54219 ]
+    },
+    "properties": {
+    "iso":"BRA",
+    "adm1":9,
+    "umd_tree_cover_loss__year":2017,
+    "umd_tree_cover_loss__ha":95251.19264,
+    "gfw_gross_emissions_co2e_all_gases__Mg":47.41659064
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -70.30146,-9.12893 ]
+    },
+    "properties": {
+    "iso":"BRA",
+    "adm1":10,
+    "umd_tree_cover_loss__year":2017,
+    "umd_tree_cover_loss__ha":450528.7197,
+    "gfw_gross_emissions_co2e_all_gases__Mg":209.3240872
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -87.568069,33.208496 ]
+    },
+    "properties": {
+    "iso":"BRA",
+    "adm1":1,
+    "umd_tree_cover_loss__year":2018,
+    "umd_tree_cover_loss__ha":84489.42251,
+    "gfw_gross_emissions_co2e_all_gases__Mg":65.53967729
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -37.713501,-6.54219 ]
+    },
+    "properties": {
+    "iso":"BRA",
+    "adm1":2,
+    "umd_tree_cover_loss__year":2018,
+    "umd_tree_cover_loss__ha":1487.368438,
+    "gfw_gross_emissions_co2e_all_gases__Mg":0.662705465
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -45.274418,-4.96095 ]
+    },
+    "properties": {
+    "iso":"BRA",
+    "adm1":3,
+    "umd_tree_cover_loss__year":2018,
+    "umd_tree_cover_loss__ha":13126.12941,
+    "gfw_gross_emissions_co2e_all_gases__Mg":8.947130784
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -63.293072,-10.83077 ]
+    },
+    "properties": {
+    "iso":"BRA",
+    "adm1":4,
+    "umd_tree_cover_loss__year":2018,
+    "umd_tree_cover_loss__ha":193802.1388,
+    "gfw_gross_emissions_co2e_all_gases__Mg":142.8141707
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -78.791252,-3.3617 ]
+    },
+    "properties": {
+    "iso":"BRA",
+    "adm1":5,
+    "umd_tree_cover_loss__year":2018,
+    "umd_tree_cover_loss__ha":126119.6047,
+    "gfw_gross_emissions_co2e_all_gases__Mg":63.87261359
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -44.555031,-18.512178 ]
+    },
+    "properties": {
+    "iso":"BRA",
+    "adm1":7,
+    "umd_tree_cover_loss__year":2018,
+    "umd_tree_cover_loss__ha":224.7780865,
+    "gfw_gross_emissions_co2e_all_gases__Mg":0.164620178
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -43.021549,-21.17524 ]
+    },
+    "properties": {
+    "iso":"BRA",
+    "adm1":8,
+    "umd_tree_cover_loss__year":2018,
+    "umd_tree_cover_loss__ha":28954.43885,
+    "gfw_gross_emissions_co2e_all_gases__Mg":21.81280023
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -37.713501,-6.54219 ]
+    },
+    "properties": {
+    "iso":"BRA",
+    "adm1":9,
+    "umd_tree_cover_loss__year":2018,
+    "umd_tree_cover_loss__ha":33201.4262,
+    "gfw_gross_emissions_co2e_all_gases__Mg":19.53195651
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -70.30146,-9.12893 ]
+    },
+    "properties": {
+    "iso":"BRA",
+    "adm1":10,
+    "umd_tree_cover_loss__year":2018,
+    "umd_tree_cover_loss__ha":405396.8142,
+    "gfw_gross_emissions_co2e_all_gases__Mg":191.6014508
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -87.568069,33.208496 ]
+    },
+    "properties": {
+    "iso":"BRA",
+    "adm1":1,
+    "umd_tree_cover_loss__year":2019,
+    "umd_tree_cover_loss__ha":84744.71073,
+    "gfw_gross_emissions_co2e_all_gases__Mg":66.74077505
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -37.713501,-6.54219 ]
+    },
+    "properties": {
+    "iso":"BRA",
+    "adm1":2,
+    "umd_tree_cover_loss__year":2019,
+    "umd_tree_cover_loss__ha":850.6560107,
+    "gfw_gross_emissions_co2e_all_gases__Mg":0.382494017
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -45.274418,-4.96095 ]
+    },
+    "properties": {
+    "iso":"BRA",
+    "adm1":3,
+    "umd_tree_cover_loss__year":2019,
+    "umd_tree_cover_loss__ha":9698.110496,
+    "gfw_gross_emissions_co2e_all_gases__Mg":6.531851725
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -63.293072,-10.83077 ]
+    },
+    "properties": {
+    "iso":"BRA",
+    "adm1":4,
+    "umd_tree_cover_loss__year":2019,
+    "umd_tree_cover_loss__ha":215503.7009,
+    "gfw_gross_emissions_co2e_all_gases__Mg":160.2865648
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -78.791252,-3.3617 ]
+    },
+    "properties": {
+    "iso":"BRA",
+    "adm1":5,
+    "umd_tree_cover_loss__year":2019,
+    "umd_tree_cover_loss__ha":104207.1003,
+    "gfw_gross_emissions_co2e_all_gases__Mg":48.07246688
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -44.555031,-18.512178 ]
+    },
+    "properties": {
+    "iso":"BRA",
+    "adm1":7,
+    "umd_tree_cover_loss__year":2019,
+    "umd_tree_cover_loss__ha":132.4226462,
+    "gfw_gross_emissions_co2e_all_gases__Mg":0.10596774
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -43.021549,-21.17524 ]
+    },
+    "properties": {
+    "iso":"BRA",
+    "adm1":8,
+    "umd_tree_cover_loss__year":2019,
+    "umd_tree_cover_loss__ha":11386.20151,
+    "gfw_gross_emissions_co2e_all_gases__Mg":10.2109238
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -37.713501,-6.54219 ]
+    },
+    "properties": {
+    "iso":"BRA",
+    "adm1":9,
+    "umd_tree_cover_loss__year":2019,
+    "umd_tree_cover_loss__ha":40260.77777,
+    "gfw_gross_emissions_co2e_all_gases__Mg":22.83829717
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -70.30146,-9.12893 ]
+    },
+    "properties": {
+    "iso":"BRA",
+    "adm1":10,
+    "umd_tree_cover_loss__year":2019,
+    "umd_tree_cover_loss__ha":259756.1543,
+    "gfw_gross_emissions_co2e_all_gases__Mg":126.2410572
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -87.568069,33.208496 ]
+    },
+    "properties": {
+    "iso":"BRA",
+    "adm1":1,
+    "umd_tree_cover_loss__year":2020,
+    "umd_tree_cover_loss__ha":90039.09026,
+    "gfw_gross_emissions_co2e_all_gases__Mg":70.90774807
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -37.713501,-6.54219 ]
+    },
+    "properties": {
+    "iso":"BRA",
+    "adm1":2,
+    "umd_tree_cover_loss__year":2020,
+    "umd_tree_cover_loss__ha":1457.757534,
+    "gfw_gross_emissions_co2e_all_gases__Mg":0.7123587
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -45.274418,-4.96095 ]
+    },
+    "properties": {
+    "iso":"BRA",
+    "adm1":3,
+    "umd_tree_cover_loss__year":2020,
+    "umd_tree_cover_loss__ha":8409.940561,
+    "gfw_gross_emissions_co2e_all_gases__Mg":6.180495746
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -63.293072,-10.83077 ]
+    },
+    "properties": {
+    "iso":"BRA",
+    "adm1":4,
+    "umd_tree_cover_loss__year":2020,
+    "umd_tree_cover_loss__ha":242978.0788,
+    "gfw_gross_emissions_co2e_all_gases__Mg":180.220499
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -78.791252,-3.3617 ]
+    },
+    "properties": {
+    "iso":"BRA",
+    "adm1":5,
+    "umd_tree_cover_loss__year":2020,
+    "umd_tree_cover_loss__ha":110142.9447,
+    "gfw_gross_emissions_co2e_all_gases__Mg":46.09722379
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -44.555031,-18.512178 ]
+    },
+    "properties": {
+    "iso":"BRA",
+    "adm1":7,
+    "umd_tree_cover_loss__year":2020,
+    "umd_tree_cover_loss__ha":59.4533053,
+    "gfw_gross_emissions_co2e_all_gases__Mg":0.088598488
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -43.021549,-21.17524 ]
+    },
+    "properties": {
+    "iso":"BRA",
+    "adm1":8,
+    "umd_tree_cover_loss__year":2020,
+    "umd_tree_cover_loss__ha":9218.748184,
+    "gfw_gross_emissions_co2e_all_gases__Mg":7.953473888
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -37.713501,-6.54219 ]
+    },
+    "properties": {
+    "iso":"BRA",
+    "adm1":9,
+    "umd_tree_cover_loss__year":2020,
+    "umd_tree_cover_loss__ha":37991.8828,
+    "gfw_gross_emissions_co2e_all_gases__Mg":20.65425782
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -70.30146,-9.12893 ]
+    },
+    "properties": {
+    "iso":"BRA",
+    "adm1":10,
+    "umd_tree_cover_loss__year":2020,
+    "umd_tree_cover_loss__ha":306836.8495,
+    "gfw_gross_emissions_co2e_all_gases__Mg":149.3048173
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -87.568069,33.208496 ]
+    },
+    "properties": {
+    "iso":"BRA",
+    "adm1":1,
+    "umd_tree_cover_loss__year":2021,
+    "umd_tree_cover_loss__ha":117865.6897,
+    "gfw_gross_emissions_co2e_all_gases__Mg":93.31119174
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -37.713501,-6.54219 ]
+    },
+    "properties": {
+    "iso":"BRA",
+    "adm1":2,
+    "umd_tree_cover_loss__year":2021,
+    "umd_tree_cover_loss__ha":838.3444767,
+    "gfw_gross_emissions_co2e_all_gases__Mg":0.425009945
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -45.274418,-4.96095 ]
+    },
+    "properties": {
+    "iso":"BRA",
+    "adm1":3,
+    "umd_tree_cover_loss__year":2021,
+    "umd_tree_cover_loss__ha":5964.398174,
+    "gfw_gross_emissions_co2e_all_gases__Mg":5.41930224
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -63.293072,-10.83077 ]
+    },
+    "properties": {
+    "iso":"BRA",
+    "adm1":4,
+    "umd_tree_cover_loss__year":2021,
+    "umd_tree_cover_loss__ha":313520.6806,
+    "gfw_gross_emissions_co2e_all_gases__Mg":238.6312346
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -78.791252,-3.3617 ]
+    },
+    "properties": {
+    "iso":"BRA",
+    "adm1":5,
+    "umd_tree_cover_loss__year":2021,
+    "umd_tree_cover_loss__ha":120012.907,
+    "gfw_gross_emissions_co2e_all_gases__Mg":46.12743849
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -44.555031,-18.512178 ]
+    },
+    "properties": {
+    "iso":"BRA",
+    "adm1":7,
+    "umd_tree_cover_loss__year":2021,
+    "umd_tree_cover_loss__ha":36.83816699,
+    "gfw_gross_emissions_co2e_all_gases__Mg":0.082516719
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -43.021549,-21.17524 ]
+    },
+    "properties": {
+    "iso":"BRA",
+    "adm1":8,
+    "umd_tree_cover_loss__year":2021,
+    "umd_tree_cover_loss__ha":7071.636397,
+    "gfw_gross_emissions_co2e_all_gases__Mg":6.603269248
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -37.713501,-6.54219 ]
+    },
+    "properties": {
+    "iso":"BRA",
+    "adm1":9,
+    "umd_tree_cover_loss__year":2021,
+    "umd_tree_cover_loss__ha":40521.33347,
+    "gfw_gross_emissions_co2e_all_gases__Mg":21.55684547
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -70.30146,-9.12893 ]
+    },
+    "properties": {
+    "iso":"BRA",
+    "adm1":10,
+    "umd_tree_cover_loss__year":2021,
+    "umd_tree_cover_loss__ha":298599.792,
+    "gfw_gross_emissions_co2e_all_gases__Mg":146.9535976
+    }
+  }
+]
+}
