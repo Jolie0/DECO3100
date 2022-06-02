@@ -1,4 +1,4 @@
-iso,longitude,latitude,adm1,umd_tree_cover_loss__year,umd_tree_cover_loss__ha,gfw_gross_emissions_co2e_all_gases__Mg
+iso,longitude,latitude,adm1,year,tree_cover_loss__ha,gross_emissions_co2e
 BRA,-87.568069,33.208496,1,2001,67309.77199,43658063.11
 BRA,-37.713501,-6.54219,2,2001,7475.453874,1835644.116
 BRA,-45.274418,-4.96095,3,2001,13926.98469,8597544.278
